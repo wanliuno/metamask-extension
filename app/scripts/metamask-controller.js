@@ -772,9 +772,9 @@ export default class MetamaskController extends EventEmitter {
       await this.diagnostics.reportMultipleKeyrings(nonSimpleKeyrings)
     }
 
-    await this.blockTracker.checkForLatestBlock()
-
     try {
+      await this.blockTracker.checkForLatestBlock()
+
       const threeBoxSyncingAllowed = this.threeBoxController.getThreeBoxSyncingState()
       if (threeBoxSyncingAllowed && !this.threeBoxController.box) {
         // 'await' intentionally omitted to avoid waiting for initialization
@@ -784,7 +784,7 @@ export default class MetamaskController extends EventEmitter {
         this.threeBoxController.turnThreeBoxSyncingOn()
       }
     } catch (error) {
-      log.error(error)
+      log.error('Error while unlocking extension.', error)
     }
 
     return this.keyringController.fullUpdate()
