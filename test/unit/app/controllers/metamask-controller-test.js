@@ -199,12 +199,14 @@ describe('MetaMaskController', function () {
     })
 
     it('succeeds even if blockTracker or threeBoxController throw', async function () {
-      const err = () => {
-        throw new Error('foo')
-      }
-      metamaskController.threeBoxController.getThreeBoxSyncingState = err
-      metamaskController.blockTracker.checkForLatestBlock = err
+      const throwErr = sinon.fake.throws('foo')
+      metamaskController.blockTracker.checkForLatestBlock = throwErr
+      metamaskController.threeBoxController.getThreeBoxSyncingState = throwErr
       await metamaskController.submitPassword(password)
+      assert.ok(
+        throwErr.calledTwice,
+        'should have called checkForLatestBlock and getThreeBoxSyncingState',
+      )
     })
   })
 
