@@ -774,6 +774,12 @@ export default class MetamaskController extends EventEmitter {
 
     try {
       await this.blockTracker.checkForLatestBlock()
+    } catch (error) {
+      log.error('Error while unlocking extension.', error)
+    }
+
+    try {
+      await this.blockTracker.checkForLatestBlock()
 
       const threeBoxSyncingAllowed = this.threeBoxController.getThreeBoxSyncingState()
       if (threeBoxSyncingAllowed && !this.threeBoxController.box) {
