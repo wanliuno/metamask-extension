@@ -779,8 +779,6 @@ export default class MetamaskController extends EventEmitter {
     }
 
     try {
-      await this.blockTracker.checkForLatestBlock()
-
       const threeBoxSyncingAllowed = this.threeBoxController.getThreeBoxSyncingState()
       if (threeBoxSyncingAllowed && !this.threeBoxController.box) {
         // 'await' intentionally omitted to avoid waiting for initialization
