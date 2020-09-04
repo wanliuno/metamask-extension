@@ -319,6 +319,7 @@ function createScriptTasks ({ browserPlatforms, livereload }) {
       METAMASK_DEBUG: opts.devMode,
       METAMASK_ENVIRONMENT: environment,
       METAMETRICS_PROJECT_ID: process.env.METAMETRICS_PROJECT_ID,
+      MIXPANEL_ID: process.env.MIXPANEL_ID,
       NODE_ENV: opts.devMode ? 'development' : 'production',
       IN_TEST: opts.testing ? 'true' : false,
       PUBNUB_SUB_KEY: process.env.PUBNUB_SUB_KEY || '',
