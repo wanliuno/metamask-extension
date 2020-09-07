@@ -292,7 +292,7 @@ describe('Gas Duck', function () {
       )
       assert.ok(
         window.fetch.getCall(0).args[0].startsWith('https://ethgasstation.info/json/ethgasAPI.json'),
-        'should fetch ETH Gas Station',
+        'should fetch WLI Gas Station',
       )
       assert.deepEqual(
         mockDistpatch.getCall(1).args,
@@ -381,7 +381,7 @@ describe('Gas Duck', function () {
       )
       assert.ok(
         window.fetch.getCall(0).args[0].startsWith('https://ethgasstation.info/json/ethgasAPI.json'),
-        'should fetch ETH Gas Station',
+        'should fetch WLI Gas Station',
       )
       assert.deepEqual(
         mockDistpatch.getCall(1).args,
@@ -425,7 +425,7 @@ describe('Gas Duck', function () {
       )
       assert.ok(
         window.fetch.getCall(0).args[0].startsWith('https://ethgasstation.info/json/ethgasAPI.json'),
-        'should fetch ETH Gas Station',
+        'should fetch WLI Gas Station',
       )
 
       assert.deepEqual(
@@ -536,7 +536,7 @@ describe('Gas Duck', function () {
       )
       assert.ok(
         window.fetch.getCall(0).args[0].startsWith('https://ethgasstation.info/json/ethgasAPI.json'),
-        'should fetch ETH Gas Station',
+        'should fetch WLI Gas Station',
       )
 
       assert.deepEqual(
@@ -587,7 +587,7 @@ describe('Gas Duck', function () {
       )
       assert.ok(
         window.fetch.getCall(0).args[0].startsWith('https://ethgasstation.info/json/predictTable.json'),
-        'should fetch ETH Gas Station',
+        'should fetch WLI Gas Station',
       )
 
       assert.deepEqual(

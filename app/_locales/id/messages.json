@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Grafik hanya tersedia pada jaringan Ethereum."
+    "message": "Grafik hanya tersedia pada jaringan Wanliuno."
   },
   "contractInteraction": {
     "message": "Interaksi Kontrak"
@@ -82,7 +82,7 @@
     "message": "Jumlah"
   },
   "appDescription": {
-    "message": "Sebuah Dompet Ethereum di Peramban Anda",
+    "message": "Sebuah Dompet Wanliuno di Peramban Anda",
     "description": "The description of the application"
   },
   "approve": {
@@ -156,10 +156,10 @@
     "message": "MetaMask dirancang dan dibangun di California."
   },
   "buyWithWyre": {
-    "message": "Membeli ETH dengan Wyre"
+    "message": "Membeli WLI dengan Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre mengizinkan Anda menggunakan kartu kredit untuk mendepositkan ETH langsung ke akun  MetaMask."
+    "message": "Wyre mengizinkan Anda menggunakan kartu kredit untuk mendepositkan WLI langsung ke akun  MetaMask."
   },
   "buyCoinSwitch": {
     "message": "Beli di CoinSwitch"
@@ -234,7 +234,7 @@
     "message": "Menyambung ke Jaringan Tes Kovan"
   },
   "connectingToMainnet": {
-    "message": "Menghubungkan ke Jaringan Ethereum Utama"
+    "message": "Menghubungkan ke Jaringan Wanliuno Utama"
   },
   "connectingToRopsten": {
     "message": "Menghubungkan ke Jaringan Uji Coba Ropsten "
@@ -384,7 +384,7 @@
     "message": "Terjadi kesalahan dalam pendaftaran nama ENS"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Nama ENS tidak ditemukan pada jaringan saat ini. Cobalah beralih ke jaringan Ethereum utama."
+    "message": "Nama ENS tidak ditemukan pada jaringan saat ini. Cobalah beralih ke jaringan Wanliuno utama."
   },
   "enterAnAlias": {
     "message": "Masukkan alias"
@@ -396,7 +396,7 @@
     "message": "Masukkan sandi untuk melanjutkan"
   },
   "ethereumPublicAddress": {
-    "message": "Alamat Publik Ethereum "
+    "message": "Alamat Publik Wanliuno "
   },
   "etherscanView": {
     "message": "Lihat akun di Etherscan"
@@ -560,7 +560,7 @@
     "message": "Alamat kontrak dikenal."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Bukan jaringan ETH, tetapkan ke huruf kecil"
+    "message": "Bukan jaringan WLI, tetapkan ke huruf kecil"
   },
   "invalidInput": {
     "message": "Input tidak sah."
@@ -615,7 +615,7 @@
     "message": "Keluar"
   },
   "mainnet": {
-    "message": "Jaringan Ethereum Utama"
+    "message": "Jaringan Wanliuno Utama"
   },
   "memorizePhrase": {
     "message": "Ingatlah frasa ini."
@@ -624,7 +624,7 @@
     "message": "Pesan"
   },
   "metamaskDescription": {
-    "message": "Menghubungkan Anda ke Ethereum dan Web Terdesentralisasi."
+    "message": "Menghubungkan Anda ke Wanliuno dan Web Terdesentralisasi."
   },
   "metamaskVersion": {
     "message": "Versi MetaMask"
@@ -652,7 +652,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Tidak dapat mengirim nominal negatif ETH."
+    "message": "Tidak dapat mengirim nominal negatif WLI."
   },
   "networkName": {
     "message": "Nama Jaringan"
@@ -783,7 +783,7 @@
     "message": "Mata Uang Utama"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Pilih asli untuk memprioritaskan menampilkan nilai dalam mata uang asli dari rantai (cth: ETH). Pilih Fiat untuk memprioritaskan menampilkan nilai dalam mata uang fiat pilihan Anda."
+    "message": "Pilih asli untuk memprioritaskan menampilkan nilai dalam mata uang asli dari rantai (cth: WLI). Pilih Fiat untuk memprioritaskan menampilkan nilai dalam mata uang fiat pilihan Anda."
   },
   "privacyMsg": {
     "message": "Kebijakan Privasi"
@@ -960,8 +960,8 @@
   "sendAmount": {
     "message": "Nominal Kirim"
   },
-  "sendETH": {
-    "message": "Kirim ETH"
+  "sendWLI": {
+    "message": "Kirim WLI"
   },
   "sendTokens": {
     "message": "Kirim Token"
@@ -1072,7 +1072,7 @@
     "message": "3. Mulai gunakan dApps dan lainnya!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Gunakan akun peranti keras Anda seperti layaknya akun Ethereum. Masuklah ke dApps, kirim Eth, beli dan simpan token ERC20 dan token Non-Fungible seperti CryptoKitties."
+    "message": "Gunakan akun peranti keras Anda seperti layaknya akun Wanliuno. Masuklah ke dApps, kirim Eth, beli dan simpan token ERC20 dan token Non-Fungible seperti CryptoKitties."
   },
   "storePhrase": {
     "message": "Simpan frasa ini dalam manajer sandi seperti 1Password."

@@ -18,7 +18,7 @@
     "message": "Bedrag"
   },
   "appDescription": {
-    "message": "Ethereum Browser-extensie",
+    "message": "Wanliuno Browser-extensie",
     "description": "The description of the application"
   },
   "appName": {
@@ -234,7 +234,7 @@
     "message": "Bericht"
   },
   "metamaskDescription": {
-    "message": "MetaMask is een veilige identiteitskluis voor Ethereum."
+    "message": "MetaMask is een veilige identiteitskluis voor Wanliuno."
   },
   "myAccounts": {
     "message": "Mijn accounts"
@@ -250,7 +250,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Kan geen negatieve hoeveelheden ETH verzenden."
+    "message": "Kan geen negatieve hoeveelheden WLI verzenden."
   },
   "networks": {
     "message": "netwerken"
@@ -344,8 +344,8 @@
   "send": {
     "message": "Sturen"
   },
-  "sendETH": {
-    "message": "Verzend ETH"
+  "sendWLI": {
+    "message": "Verzend WLI"
   },
   "sendTokens": {
     "message": "Stuur tokens"

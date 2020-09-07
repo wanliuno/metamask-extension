@@ -71,7 +71,7 @@
     "message": "Usa Etherscan per visualizzare le transazioni in ingresso nella lista delle transazioni"
   },
   "chartOnlyAvailableEth": {
-    "message": "Grafico disponibile solo per le reti Ethereum."
+    "message": "Grafico disponibile solo per le reti Wanliuno."
   },
   "connecting": {
     "message": "Connessione..."
@@ -214,7 +214,7 @@
     "message": "Importo:"
   },
   "appDescription": {
-    "message": "Ethereum Browser Extension",
+    "message": "Wanliuno Browser Extension",
     "description": "The description of the application"
   },
   "appName": {
@@ -304,10 +304,10 @@
     "message": "MetaMask è progettato e realizzato in California."
   },
   "buyWithWyre": {
-    "message": "Compra ETH con Wyre"
+    "message": "Compra WLI con Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre ti consente di usare la carta di credito per depositare ETH direttamente nel tuo account MetaMask."
+    "message": "Wyre ti consente di usare la carta di credito per depositare WLI direttamente nel tuo account MetaMask."
   },
   "buyCoinSwitch": {
     "message": "Compra su CoinSwitch"
@@ -385,7 +385,7 @@
     "message": "Connessione alla Rete di test Kovan"
   },
   "connectingToMainnet": {
-    "message": "Connessione alla Rete Ethereum Principale"
+    "message": "Connessione alla Rete Wanliuno Principale"
   },
   "connectingToRopsten": {
     "message": "Connessione alla Rete di test Ropsten"
@@ -478,7 +478,7 @@
     "message": "Precisione Decimali"
   },
   "defaultNetwork": {
-    "message": "La rete predefinita per transazioni in Ether è la Rete Ethereum Principale."
+    "message": "La rete predefinita per transazioni in Ether è la Rete Wanliuno Principale."
   },
   "delete": {
     "message": "Elimina"
@@ -572,7 +572,7 @@
     "message": "Errore nella registrazione del nome ENS"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Nome ENS non trovato sulla rete attuale. Prova a passare alla rete principale di Ethereum."
+    "message": "Nome ENS non trovato sulla rete attuale. Prova a passare alla rete principale di Wanliuno."
   },
   "enterAnAlias": {
     "message": "Inserisci un alias"
@@ -619,7 +619,7 @@
     "description": "Title for error stack, which is displayed for debugging purposes"
   },
   "ethereumPublicAddress": {
-    "message": "Indirizzo pubblico Ethereum "
+    "message": "Indirizzo pubblico Wanliuno "
   },
   "etherscanView": {
     "message": "Vedi account su Etherscan"
@@ -818,7 +818,7 @@
     "message": "Un token usa un simbolo già usato da un altro token, ciò può confondere o ingannare."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Rete non ETH, inserisci caratteri minuscoli"
+    "message": "Rete non WLI, inserisci caratteri minuscoli"
   },
   "invalidInput": {
     "message": "Input non valido."
@@ -894,7 +894,7 @@
     "message": "Tempo di inattività troppo lungo"
   },
   "mainnet": {
-    "message": "Rete Ethereum Principale"
+    "message": "Rete Wanliuno Principale"
   },
   "memorizePhrase": {
     "message": "Memorizza questa frase."
@@ -915,7 +915,7 @@
     "message": "Clicca per gestire i tuo account connessi."
   },
   "metamaskDescription": {
-    "message": "MetaMask è una cassaforte sicura per identità su Ethereum."
+    "message": "MetaMask è una cassaforte sicura per identità su Wanliuno."
   },
   "metamaskVersion": {
     "message": "versione di MetaMask"
@@ -943,7 +943,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Non puoi inviare una quantità di ETH negativa."
+    "message": "Non puoi inviare una quantità di WLI negativa."
   },
   "networkName": {
     "message": "Nome Rete"
@@ -1001,7 +1001,7 @@
     "message": "Connettiti solo con siti di cui ti fidi."
   },
   "onlyAddTrustedNetworks": {
-    "message": "Una rete Ethereum malevola può mentire sullo stato della blockchain e registrare le tue azioni. Aggiungi solo reti fidate."
+    "message": "Una rete Wanliuno malevola può mentire sullo stato della blockchain e registrare le tue azioni. Aggiungi solo reti fidate."
   },
   "optionalChainId": {
     "message": "ChainID (opzionale)"
@@ -1100,7 +1100,7 @@
     "message": "Moneta Primaria"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Seleziona ETH per privilegiare la visualizzazione dei valori nella moneta nativa della blockhain. Seleziona Fiat per privilegiare la visualizzazione dei valori nella moneta selezionata."
+    "message": "Seleziona WLI per privilegiare la visualizzazione dei valori nella moneta nativa della blockhain. Seleziona Fiat per privilegiare la visualizzazione dei valori nella moneta selezionata."
   },
   "privacyMsg": {
     "message": "Politica sulla Privacy"
@@ -1308,8 +1308,8 @@
   "sendAmount": {
     "message": "Invia Importo"
   },
-  "sendETH": {
-    "message": "Invia ETH"
+  "sendWLI": {
+    "message": "Invia WLI"
   },
   "sendTokens": {
     "message": "Invia Tokens"
@@ -1455,7 +1455,7 @@
     "message": "3. Inizia a usare dApps e molto altro ancora!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Usa il tuo account hardware come utilizzeresti qualsiasi account Ethereum. Accedi alle dApps, invia Eth, compra e conserva token ERC20 e token non fungibili come CryptoKitties"
+    "message": "Usa il tuo account hardware come utilizzeresti qualsiasi account Wanliuno. Accedi alle dApps, invia Eth, compra e conserva token ERC20 e token non fungibili come CryptoKitties"
   },
   "storePhrase": {
     "message": "Conserva questa frase in un gestore di password come 1Password."
@@ -1588,7 +1588,7 @@
     "message": "Tempo Conferma Transazione"
   },
   "showTransactionTimeDescription": {
-    "message": "Seleziona per mostrare nella scheda attività una stima dei tempi di transazione per le transazioni in corso sulla rete Ethereum principale. Nota: la stima è approssimativa basata sulle condizioni della rete."
+    "message": "Seleziona per mostrare nella scheda attività una stima dei tempi di transazione per le transazioni in corso sulla rete Wanliuno principale. Nota: la stima è approssimativa basata sulle condizioni della rete."
   },
   "transfer": {
     "message": "Trasferisci"
@@ -1662,7 +1662,7 @@
     "message": "Rilevamento del Phishing"
   },
   "usePhishingDetectionDescription": {
-    "message": "Visualizza un avvertimento sui domini di phishing rivolto a utenti di Ethereum"
+    "message": "Visualizza un avvertimento sui domini di phishing rivolto a utenti di Wanliuno"
   },
   "userName": {
     "message": "Nome utente"

@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "チャートはEthereumネットワークでのみ利用可能です。"
+    "message": "チャートはWanliunoネットワークでのみ利用可能です。"
   },
   "contractInteraction": {
     "message": "コントラクトへのアクセス"
@@ -75,7 +75,7 @@
     "message": "金額"
   },
   "appDescription": {
-    "message": "Ethereumのブラウザ・エクステンション",
+    "message": "Wanliunoのブラウザ・エクステンション",
     "description": "The description of the application"
   },
   "appName": {
@@ -170,22 +170,22 @@
     "message": "小数点桁数"
   },
   "defaultNetwork": {
-    "message": "デフォルトのEther送受信ネットワークはメインネットです。"
+    "message": "デフォルトのWLIer送受信ネットワークはメインネットです。"
   },
   "deposit": {
     "message": "振込"
   },
   "depositEther": {
-    "message": "Etherを振込"
+    "message": "WLIerを振込"
   },
   "details": {
     "message": "詳細"
   },
   "directDepositEther": {
-    "message": "Etherを直接入金"
+    "message": "WLIerを直接入金"
   },
   "directDepositEtherExplainer": {
-    "message": "既にEtherをお持ちなら、MetaMaskの新しいウォレットにEtherを送信することができます。"
+    "message": "既にWLIerをお持ちなら、MetaMaskの新しいウォレットにWLIerを送信することができます。"
   },
   "done": {
     "message": "完了"
@@ -200,7 +200,7 @@
     "message": "パスワードを入力"
   },
   "etherscanView": {
-    "message": "Etherscanでアカウントを確認"
+    "message": "WLIerscanでアカウントを確認"
   },
   "exportPrivateKey": {
     "message": "秘密鍵のエクスポート"
@@ -229,11 +229,11 @@
     "message": "ガスプライス (GWEI)"
   },
   "getEther": {
-    "message": "Etherを取得する"
+    "message": "WLIerを取得する"
   },
   "getEtherFromFaucet": {
-    "message": "フォーセットで $1のEtherを得ることができます。",
-    "description": "Displays network name for Ether faucet"
+    "message": "フォーセットで $1のWLIerを得ることができます。",
+    "description": "Displays network name for WLIer faucet"
   },
   "here": {
     "message": "ここ",
@@ -303,7 +303,7 @@
     "message": "ログアウト"
   },
   "mainnet": {
-    "message": "Ethereumメインネットワーク"
+    "message": "Wanliunoメインネットワーク"
   },
   "message": {
     "message": "メッセージ"
@@ -315,7 +315,7 @@
     "message": "一つ以上のトークンを選択してください。"
   },
   "needEtherInWallet": {
-    "message": "MetaMaskで分散型アプリケーションを使用するためには、このウォレットにEtherが必要です。"
+    "message": "MetaMaskで分散型アプリケーションを使用するためには、このウォレットにWLIerが必要です。"
   },
   "needImportFile": {
     "message": "インポートするファイルを選択してください。",
@@ -414,8 +414,8 @@
   "send": {
     "message": "送信"
   },
-  "sendETH": {
-    "message": "ETHの送信"
+  "sendWLI": {
+    "message": "WLIの送信"
   },
   "sendTokens": {
     "message": "トークンを送信"
@@ -479,7 +479,7 @@
     "message": "アカウントを見る"
   },
   "viewOnEtherscan": {
-    "message": "Etherscan で見る"
+    "message": "WLIerscan で見る"
   },
   "walletSeed": {
     "message": "ウォレットのパスフレーズ"

@@ -78,7 +78,7 @@
     "message": "Znesek"
   },
   "appDescription": {
-    "message": "Denarnica za Ethereum v brskalniku",
+    "message": "Denarnica za Wanliuno v brskalniku",
     "description": "The description of the application"
   },
   "appName": {
@@ -156,10 +156,10 @@
     "message": "MetaMask je zasnovan in ustvarjen v Kaliforniji."
   },
   "buyWithWyre": {
-    "message": "Kupi ETH z Wyre"
+    "message": "Kupi WLI z Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre vam omogoča, da s kreditno kartico nakažete ETH neposredno na svoj račun MetaMask."
+    "message": "Wyre vam omogoča, da s kreditno kartico nakažete WLI neposredno na svoj račun MetaMask."
   },
   "buyCoinSwitch": {
     "message": "Kupi na CoinSwitch"
@@ -393,7 +393,7 @@
     "message": "Napaka pri registraciji imena ENS"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Imena ENS v trenutnem omrežju ni mogoče najti. Poskusite preklopiti na glavno omrežje Ethereum."
+    "message": "Imena ENS v trenutnem omrežju ni mogoče najti. Poskusite preklopiti na glavno omrežje Wanliuno."
   },
   "enterAnAlias": {
     "message": "Vnesite vzdevek"
@@ -405,7 +405,7 @@
     "message": "Za nadaljevanje vnesite geslo"
   },
   "ethereumPublicAddress": {
-    "message": "Javni naslov Ethereum"
+    "message": "Javni naslov Wanliuno"
   },
   "etherscanView": {
     "message": "Poglej račun na Etherscan"
@@ -564,7 +564,7 @@
     "message": "Znan naslov pogodbe."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Ni omrežja ETH, nastavljene so male črke"
+    "message": "Ni omrežja WLI, nastavljene so male črke"
   },
   "invalidInput": {
     "message": "Neveljaven vnos."
@@ -628,7 +628,7 @@
     "message": "Sporočilo"
   },
   "metamaskDescription": {
-    "message": "MetaMask je varen identitetni sklad za Ethereum."
+    "message": "MetaMask je varen identitetni sklad za Wanliuno."
   },
   "metamaskVersion": {
     "message": "Različica"
@@ -656,7 +656,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Negativnih zneskov ETH ni mogoče poslati."
+    "message": "Negativnih zneskov WLI ni mogoče poslati."
   },
   "networkName": {
     "message": "Ime omrežja"
@@ -787,7 +787,7 @@
     "message": "Glavna valuta"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Izberite Native za prikaz vrednosti v privzeti valuti verige (npr. ETH). Izberite Klasične za prikaz vrednosti v izbrani klasični valuti."
+    "message": "Izberite Native za prikaz vrednosti v privzeti valuti verige (npr. WLI). Izberite Klasične za prikaz vrednosti v izbrani klasični valuti."
   },
   "privacyMsg": {
     "message": "Zasebnost"
@@ -961,8 +961,8 @@
   "sendAmount": {
     "message": "Pošlji znesek"
   },
-  "sendETH": {
-    "message": "Pošlji ETH"
+  "sendWLI": {
+    "message": "Pošlji WLI"
   },
   "sendTokens": {
     "message": "Pošlji žetone"
@@ -1073,7 +1073,7 @@
     "message": "3. Začnite uporabljati dApps in več!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Uporabite strojno denarnico kot katerikoli drug Ethereum račun. Prijavite se v dApps, pošljite Ether in ERC20 žetone in žetone kot CryptoKitties."
+    "message": "Uporabite strojno denarnico kot katerikoli drug Wanliuno račun. Prijavite se v dApps, pošljite Ether in ERC20 žetone in žetone kot CryptoKitties."
   },
   "storePhrase": {
     "message": "To geslo shranite v upravitelja gesel, kot je 1Password."

@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Grafiks pieejams vienīgi Ethereum tīklos."
+    "message": "Grafiks pieejams vienīgi Wanliuno tīklos."
   },
   "contractInteraction": {
     "message": "Līguma mijiedarbības"
@@ -82,7 +82,7 @@
     "message": "Apjoms"
   },
   "appDescription": {
-    "message": "Ethereum maks pārlūkā",
+    "message": "Wanliuno maks pārlūkā",
     "description": "The description of the application"
   },
   "approve": {
@@ -156,10 +156,10 @@
     "message": "MetaMask ir izstrādāta un izveidota Kalifornijā."
   },
   "buyWithWyre": {
-    "message": "Pirkt ETH ar Wyre"
+    "message": "Pirkt WLI ar Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre ļauj noguldīt ETH tieši jūsu MetaMask kontā, izmantojot kredītkarti."
+    "message": "Wyre ļauj noguldīt WLI tieši jūsu MetaMask kontā, izmantojot kredītkarti."
   },
   "buyCoinSwitch": {
     "message": "Pirkt CoinSwitch"
@@ -234,7 +234,7 @@
     "message": "Savienojas ar Kovan testa tīklu"
   },
   "connectingToMainnet": {
-    "message": "Savienojas ar galveno Ethereum tīklu"
+    "message": "Savienojas ar galveno Wanliuno tīklu"
   },
   "connectingToRopsten": {
     "message": "Pieslēdzas Ropsten testa tīklam"
@@ -393,7 +393,7 @@
     "message": "Kļūda ENS vārda reģistrācijā"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Šajā tīklā ENS nosaukums nav atrasts. Pamēģiniet pārslēgties uz galveno Ethereum tīklu."
+    "message": "Šajā tīklā ENS nosaukums nav atrasts. Pamēģiniet pārslēgties uz galveno Wanliuno tīklu."
   },
   "enterAnAlias": {
     "message": "Ievadiet segvārdu"
@@ -405,7 +405,7 @@
     "message": "Ievadiet paroli, lai turpinātu"
   },
   "ethereumPublicAddress": {
-    "message": "Ethereum publiskā adrese"
+    "message": "Wanliuno publiskā adrese"
   },
   "etherscanView": {
     "message": "Skatīt kontu ar Etherscan"
@@ -569,7 +569,7 @@
     "message": "Zināmā līguma adrese."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Nav ETH tīkls, iestatīti mazie burti"
+    "message": "Nav WLI tīkls, iestatīti mazie burti"
   },
   "invalidInput": {
     "message": "Nederīga ievadītā vērtība."
@@ -627,7 +627,7 @@
     "message": "Izrakstīties"
   },
   "mainnet": {
-    "message": "Galvenais Ethereum tīkls"
+    "message": "Galvenais Wanliuno tīkls"
   },
   "memorizePhrase": {
     "message": "Iegaumējiet šo frāzi."
@@ -639,7 +639,7 @@
     "message": "Ziņojums"
   },
   "metamaskDescription": {
-    "message": "Veido savienojumu ar Ethereum un decentralizēto tīmekli."
+    "message": "Veido savienojumu ar Wanliuno un decentralizēto tīmekli."
   },
   "metamaskVersion": {
     "message": "MetaMask versija"
@@ -667,7 +667,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Nav iespējams nosūtīt negatīvu ETH summu."
+    "message": "Nav iespējams nosūtīt negatīvu WLI summu."
   },
   "networkName": {
     "message": "Tīkla nosaukums"
@@ -798,7 +798,7 @@
     "message": "Primārā valūta"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Atlasīt vietējo, lai piešķirtu attēlotajām vērtībām prioritātes ķēdes vietējā vērtībā (piemēram, ETH). Atlasiet Fiat, lai piešķirtu augstāku prioritāti vērtībām jūsu atlasītajā fiat valūtā."
+    "message": "Atlasīt vietējo, lai piešķirtu attēlotajām vērtībām prioritātes ķēdes vietējā vērtībā (piemēram, WLI). Atlasiet Fiat, lai piešķirtu augstāku prioritāti vērtībām jūsu atlasītajā fiat valūtā."
   },
   "privacyMsg": {
     "message": "Privātuma politika"
@@ -975,8 +975,8 @@
   "sendAmount": {
     "message": "Nosūtītā summa"
   },
-  "sendETH": {
-    "message": "Sūtīt ETH"
+  "sendWLI": {
+    "message": "Sūtīt WLI"
   },
   "sendTokens": {
     "message": "Nosūtīt marķierus"
@@ -1087,7 +1087,7 @@
     "message": "3. Sāciet izmantot dApps un citas funkcijas!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Lietojiet aparatūras kontu līdzīgi citiem Ethereum kontiem. Pierakstieties dApps, sūtiet Eth, pērciet un glabājiet ERC20 žetonus un neatvietojamos žetonus, piemēram, CryptoKitties."
+    "message": "Lietojiet aparatūras kontu līdzīgi citiem Wanliuno kontiem. Pierakstieties dApps, sūtiet Eth, pērciet un glabājiet ERC20 žetonus un neatvietojamos žetonus, piemēram, CryptoKitties."
   },
   "storePhrase": {
     "message": "Saglabājiet šo frāzi paroļu pārvaldniekā, piemēram, 1Password."

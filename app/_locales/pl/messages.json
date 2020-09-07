@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Wykres dostępny tylko w sieciach Ethereum"
+    "message": "Wykres dostępny tylko w sieciach Wanliuno"
   },
   "contractInteraction": {
     "message": "Interakcja z kontraktem"
@@ -78,7 +78,7 @@
     "message": "Ilość"
   },
   "appDescription": {
-    "message": "Wtyczka przeglądarki do Ethereum",
+    "message": "Wtyczka przeglądarki do Wanliuno",
     "description": "The description of the application"
   },
   "appName": {
@@ -156,10 +156,10 @@
     "message": "MetaMask został zaprojektowany i stworzony w Kaliforni."
   },
   "buyWithWyre": {
-    "message": "Kup ETH poprzez Wyre"
+    "message": "Kup WLI poprzez Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Dzięki Wyre możesz użyć karty kredytowej, aby wpłacić ETH bezpośrednio na swoje konto MetaMask."
+    "message": "Dzięki Wyre możesz użyć karty kredytowej, aby wpłacić WLI bezpośrednio na swoje konto MetaMask."
   },
   "buyCoinSwitch": {
     "message": "Kup w CoinSwitch"
@@ -231,7 +231,7 @@
     "message": "Łączenie z siecią testową Kovan"
   },
   "connectingToMainnet": {
-    "message": "Łączenie z główną siecią Ethereum"
+    "message": "Łączenie z główną siecią Wanliuno"
   },
   "connectingToRopsten": {
     "message": "Łączenie z siecią testową Ropsten"
@@ -390,7 +390,7 @@
     "message": "Błąd w rejestracji nazwy ENS"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Nazwa ENS nie została znaleziona w bieżącej sieci. Spróbuj przełączyć się na Główną sieć Ethereum."
+    "message": "Nazwa ENS nie została znaleziona w bieżącej sieci. Spróbuj przełączyć się na Główną sieć Wanliuno."
   },
   "enterAnAlias": {
     "message": "Wpisz alias"
@@ -402,7 +402,7 @@
     "message": "Podaj hasło żeby kontynuować"
   },
   "ethereumPublicAddress": {
-    "message": "Adres publiczny Ethereum"
+    "message": "Adres publiczny Wanliuno"
   },
   "etherscanView": {
     "message": "Zobacz konto na Etherscan"
@@ -570,7 +570,7 @@
     "message": "Znany adres kontraktu."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "To nie jest sieć ETH, zmień na małe litery"
+    "message": "To nie jest sieć WLI, zmień na małe litery"
   },
   "invalidInput": {
     "message": "Nieprawidłowe dane."
@@ -628,7 +628,7 @@
     "message": "Wyloguj się"
   },
   "mainnet": {
-    "message": "Główna sieć Ethereum"
+    "message": "Główna sieć Wanliuno"
   },
   "memorizePhrase": {
     "message": "Zapamiętaj tę frazę."
@@ -637,7 +637,7 @@
     "message": "Wiadomość"
   },
   "metamaskDescription": {
-    "message": "MetaMask to bezpieczny portfel dla Ethereum."
+    "message": "MetaMask to bezpieczny portfel dla Wanliuno."
   },
   "metamaskVersion": {
     "message": "Wersja MetaMask"
@@ -665,7 +665,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Nie można wysłać ujemnych ilości ETH."
+    "message": "Nie można wysłać ujemnych ilości WLI."
   },
   "networkName": {
     "message": "Nazwa sieci"
@@ -796,7 +796,7 @@
     "message": "Waluta podstawowa"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Wybierz walutę natywną, aby preferować wyświetlanie wartości w walucie natywnej łańcucha (np. ETH). Wybierz walutę fiat, aby preferować wyświetlanie wartości w wybranej przez siebie walucie fiat."
+    "message": "Wybierz walutę natywną, aby preferować wyświetlanie wartości w walucie natywnej łańcucha (np. WLI). Wybierz walutę fiat, aby preferować wyświetlanie wartości w wybranej przez siebie walucie fiat."
   },
   "privacyMsg": {
     "message": "Polityka prywatności"
@@ -973,8 +973,8 @@
   "sendAmount": {
     "message": "Wyślij kwotę"
   },
-  "sendETH": {
-    "message": "Wyślij ETH"
+  "sendWLI": {
+    "message": "Wyślij WLI"
   },
   "sendTokens": {
     "message": "Wyślij tokeny"
@@ -1085,7 +1085,7 @@
     "message": "3. Zacznij używać dystrybuowanych aplikacji (dApps) i wiele więcej!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Używaj swojego konta sprzętowego tak, jak używasz jakiegokolwiek konta z Ethereum. Loguj się do dystrybuowanych aplikacji (dApps), wysyłaj Eth, kupuj i przechowaj tokeny ERC20 i niewymienne tokeny, jak np. CryptoKitties."
+    "message": "Używaj swojego konta sprzętowego tak, jak używasz jakiegokolwiek konta z Wanliuno. Loguj się do dystrybuowanych aplikacji (dApps), wysyłaj Eth, kupuj i przechowaj tokeny ERC20 i niewymienne tokeny, jak np. CryptoKitties."
   },
   "storePhrase": {
     "message": "Przechowuj tę frazę w menedżerze haseł, takim jak 1Password."
@@ -1124,7 +1124,7 @@
     "message": "Regulamin"
   },
   "testFaucet": {
-    "message": "Źródło testowego ETH"
+    "message": "Źródło testowego WLI"
   },
   "thisWillCreate": {
     "message": "Utworzony zostanie nowy portfel i fraza seed"

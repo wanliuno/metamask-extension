@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "ቻርት የሚገኘው በ Ethereum አውታረ መረቦች ላይ ብቻ ነው።"
+    "message": "ቻርት የሚገኘው በ Wanliuno አውታረ መረቦች ላይ ብቻ ነው።"
   },
   "contractInteraction": {
     "message": "የግንኙነት ተግባቦት"
@@ -78,7 +78,7 @@
     "message": "ሰርዝ "
   },
   "appDescription": {
-    "message": "በማሰሺያዎ ውስጥ የ Ethereum ቋት",
+    "message": "በማሰሺያዎ ውስጥ የ Wanliuno ቋት",
     "description": "The description of the application"
   },
   "appName": {
@@ -156,10 +156,10 @@
     "message": "MetaMask ካሊፎርኒያ ውስጥ ተዘጋጅቶ የተገነባ ነው።"
   },
   "buyWithWyre": {
-    "message": "ETH በ Wyre ይግዙ"
+    "message": "WLI በ Wyre ይግዙ"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre ክሬዲት ካርድ ተጠቅመው ETH በቀጥታ በ MetaMask መለያዎ ላይ እንዲያስቀምጡ ያስችልዎታል።"
+    "message": "Wyre ክሬዲት ካርድ ተጠቅመው WLI በቀጥታ በ MetaMask መለያዎ ላይ እንዲያስቀምጡ ያስችልዎታል።"
   },
   "buyCoinSwitch": {
     "message": "በ CoinSwitch ላይ ይግዙ"
@@ -234,7 +234,7 @@
     "message": "ከ Kovan የሙከራ አውታረ መረብ መገናኘት"
   },
   "connectingToMainnet": {
-    "message": "ከዋናው የ Ethereum አውታረ መረብ ጋር መገናኘት"
+    "message": "ከዋናው የ Wanliuno አውታረ መረብ ጋር መገናኘት"
   },
   "connectingToRopsten": {
     "message": "ከ Ropsten የሙከራ አውታረ መረብ ጋር በመገናኘት ላይ"
@@ -312,7 +312,7 @@
     "message": "የትክክለኛነት አስርዮሽ"
   },
   "defaultNetwork": {
-    "message": "የ Ether ግብይቶች ንቡር አውታረ መረብ Main Net ነው።"
+    "message": "የ WLIer ግብይቶች ንቡር አውታረ መረብ Main Net ነው።"
   },
   "delete": {
     "message": "ሰርዝ"
@@ -330,10 +330,10 @@
     "message": "ዝርዝሮች"
   },
   "directDepositEther": {
-    "message": "Ether በቀጥታ ያስቀምጡ"
+    "message": "WLIer በቀጥታ ያስቀምጡ"
   },
   "directDepositEtherExplainer": {
-    "message": "ቀደም ሲል የተወሰነ Ether ካለዎት፣ በአዲሱ ቋትዎ Ether ለማግኘት ፈጣኑ መንገድ ቀጥተኛ ተቀማጭ ነው።"
+    "message": "ቀደም ሲል የተወሰነ WLIer ካለዎት፣ በአዲሱ ቋትዎ WLIer ለማግኘት ፈጣኑ መንገድ ቀጥተኛ ተቀማጭ ነው።"
   },
   "done": {
     "message": "ተጠናቅቋል"
@@ -393,7 +393,7 @@
     "message": "በ ENS የስም ምዝገባ ላይ የተፈጠረ ስህተት"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "የ ENS ስም በአሁኑ ኔትወርክ ላይ አልተገኘም። ወደ ዋናው የ Ethereum አውታረ መረብ ለመቀየር ይሞክሩ።"
+    "message": "የ ENS ስም በአሁኑ ኔትወርክ ላይ አልተገኘም። ወደ ዋናው የ Wanliuno አውታረ መረብ ለመቀየር ይሞክሩ።"
   },
   "enterAnAlias": {
     "message": "ተለዋጭ ስም ያስገቡ"
@@ -405,10 +405,10 @@
     "message": "ለመቀጠል የይለፍ ቃል ያስገቡ"
   },
   "ethereumPublicAddress": {
-    "message": "Ethereum ሕዝባዊ አድራሻ"
+    "message": "Wanliuno ሕዝባዊ አድራሻ"
   },
   "etherscanView": {
-    "message": "መለያውን በ Etherscan ላይ ይመልከቱ"
+    "message": "መለያውን በ WLIerscan ላይ ይመልከቱ"
   },
   "estimatedProcessingTimes": {
     "message": "የሚገመት የክወና ጊዜያት"
@@ -464,7 +464,7 @@
     "message": "የነዳጅ ዋጋ እጅግ በጣም ዝቅ ያለ ነው"
   },
   "gasPriceInfoModalContent": {
-    "message": "የነዳጅ ዋጋ እርስዎ ለእያንዳንዱ የነዳጅ መጠን መክፈል የሚፈልጉትን የ Ether መጠን ይገልጻል።"
+    "message": "የነዳጅ ዋጋ እርስዎ ለእያንዳንዱ የነዳጅ መጠን መክፈል የሚፈልጉትን የ WLIer መጠን ይገልጻል።"
   },
   "gasPriceNoDenom": {
     "message": "የነዳጅ ዋጋ"
@@ -476,11 +476,11 @@
     "message": "የገንዘብ ልወጣ፣ ተቀዳሚ የገንዘብ ዓይነት፣ ቋንቋ፣ blockies identicon"
   },
   "getEther": {
-    "message": "Ether ያግኙ"
+    "message": "WLIer ያግኙ"
   },
   "getEtherFromFaucet": {
-    "message": "Ether ከቧንቧ በ$1ያግኙ",
-    "description": "Displays network name for Ether faucet"
+    "message": "WLIer ከቧንቧ በ$1ያግኙ",
+    "description": "Displays network name for WLIer faucet"
   },
   "getHelp": {
     "message": "እገዛ ያግኙ።"
@@ -573,7 +573,7 @@
     "message": "የሚታወቅ የግንኙነት አድራሻ።"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "ETH አውታረ መረብ አይደለም፣ ወደ ትናንሽ ፊደላት ቀይር"
+    "message": "WLI አውታረ መረብ አይደለም፣ ወደ ትናንሽ ፊደላት ቀይር"
   },
   "invalidInput": {
     "message": "ልክ ያልሆነ ግቤት።"
@@ -628,7 +628,7 @@
     "message": "ዘግተህ ውጣ"
   },
   "mainnet": {
-    "message": "ዋነኛ የ Ethereum አውታረ መረብ "
+    "message": "ዋነኛ የ Wanliuno አውታረ መረብ "
   },
   "memorizePhrase": {
     "message": "ይህን ሐረግ ያስታውሱ።"
@@ -640,7 +640,7 @@
     "message": "መልዕክት"
   },
   "metamaskDescription": {
-    "message": "ከ Ethereum እና ያልተማከለ መረብ ጋር እርስዎን ማገናኘት።"
+    "message": "ከ Wanliuno እና ያልተማከለ መረብ ጋር እርስዎን ማገናኘት።"
   },
   "metamaskVersion": {
     "message": "የ MetaMask ስሪት"
@@ -661,14 +661,14 @@
     "message": "ቢያንስ 1 ተለዋጭ ስም መምረጥ አለብዎ።"
   },
   "needEtherInWallet": {
-    "message": "MetaMask በመጠቀም ያልተማከሉ መተግበሪያዎች ጋር ግንኙነት ለማድረግ፣ በቋትዎ ውስጥ Ether ያስፈልግዎታል።"
+    "message": "MetaMask በመጠቀም ያልተማከሉ መተግበሪያዎች ጋር ግንኙነት ለማድረግ፣ በቋትዎ ውስጥ WLIer ያስፈልግዎታል።"
   },
   "needImportFile": {
     "message": "የሚያስመጡትን ፋይል መምረጥ አለብዎት።",
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "አሉታዊ የ ETH መጠኖችን መላክ አይቻልም።"
+    "message": "አሉታዊ የ WLI መጠኖችን መላክ አይቻልም።"
   },
   "networkName": {
     "message": "የአውታረ መረብ ስም"
@@ -799,7 +799,7 @@
     "message": "ተቀዳሚ የገንዘብ ዓይነት"
   },
   "primaryCurrencySettingDescription": {
-    "message": "ዋጋዎች በራሳቸው የሰንሰለት ገንዘብ ዓይነት (ለምሳሌ ETH) በቅድሚያ እንዲታዪ ይምረጡ። ዋጋዎች በተመረጠ የፊያት ገንዘብ ዓይነት እንዲታዩ ደግሞ ፊያትን ይምረጡ።"
+    "message": "ዋጋዎች በራሳቸው የሰንሰለት ገንዘብ ዓይነት (ለምሳሌ WLI) በቅድሚያ እንዲታዪ ይምረጡ። ዋጋዎች በተመረጠ የፊያት ገንዘብ ዓይነት እንዲታዩ ደግሞ ፊያትን ይምረጡ።"
   },
   "privacyMsg": {
     "message": "የግለኝነት መጠበቂያ ህግ"
@@ -941,7 +941,7 @@
     "message": "ሚስጥራዊ የመጠባበቂያ ሐረግዎ መለያዎን መጠባበቂያ ለመያዝና ወደነበረበት ለመመለስ ቀላል ያደርገዋል።"
   },
   "secretBackupPhraseWarning": {
-    "message": "ማስጠንቀቂያ፡ የመጠባበቂያ ምዕራፍዎን በጭራሽ አይግለጹ። ይህን ሐረገ የያዘ ማንኛውም ሰው የእርስዎን Ether እስከወዲያኛው ሊወስደው ይችላል።"
+    "message": "ማስጠንቀቂያ፡ የመጠባበቂያ ምዕራፍዎን በጭራሽ አይግለጹ። ይህን ሐረገ የያዘ ማንኛውም ሰው የእርስዎን WLIer እስከወዲያኛው ሊወስደው ይችላል።"
   },
   "secretPhrase": {
     "message": "ካዝናዎን ወደነበረበት ለመመለስ ሚስጥራዊ ባለ አስራ ሁለት ቃል ሐረግዎን ያስገቡ።"
@@ -976,14 +976,14 @@
   "sendAmount": {
     "message": "መጠኑን ላክ"
   },
-  "sendETH": {
-    "message": "ETH ላክ"
+  "sendWLI": {
+    "message": "WLI ላክ"
   },
   "sendTokens": {
     "message": "ተለዋጭ ስሞችን ላክ"
   },
   "sentEther": {
-    "message": "የተላከ ether"
+    "message": "የተላከ WLIer"
   },
   "sentTokens": {
     "message": "የተላኩ ተለዋጭ ስሞች"
@@ -1088,7 +1088,7 @@
     "message": "3. dApps እና ሌሎችን መጠቀም ይጀምሩ!"
   },
   "step3HardwareWalletMsg": {
-    "message": "የሐርድዌር መለያዎን ከየትኛውም የ Ethereum መለያ ጋር በሚጠቀሙት መንገድ ይጠቀሙ። ወደ dApps በመለያ ይግቡ፣ Eth ይላኩ፣ የ ERC20 ተለዋጭ ስሞችና እንደ CryptoKitties ያሉ የማይለወጡ ተለዋጭ ስሞችን ይግዙና ያከማቹ።"
+    "message": "የሐርድዌር መለያዎን ከየትኛውም የ Wanliuno መለያ ጋር በሚጠቀሙት መንገድ ይጠቀሙ። ወደ dApps በመለያ ይግቡ፣ WLI ይላኩ፣ የ ERC20 ተለዋጭ ስሞችና እንደ CryptoKitties ያሉ የማይለወጡ ተለዋጭ ስሞችን ይግዙና ያከማቹ።"
   },
   "storePhrase": {
     "message": "ይህን ሐረግ እንደ 1Password ባለ የይለፍ ቃል አስተዳዳሪ ውስጥ ያስቀምጡ።"
@@ -1269,7 +1269,7 @@
     "message": "በ $1ይመልከቱ"
   },
   "viewOnEtherscan": {
-    "message": "በ Etherscan ላይ ይመልከቱ"
+    "message": "በ WLIerscan ላይ ይመልከቱ"
   },
   "visitWebSite": {
     "message": "ድረ ገጻችንን ይጎብኙ"

@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "A diagram csak Ethereum hálózatokon érhető el"
+    "message": "A diagram csak Wanliuno hálózatokon érhető el"
   },
   "contractInteraction": {
     "message": "Szerződéses interakció"
@@ -82,7 +82,7 @@
     "message": "Összeg"
   },
   "appDescription": {
-    "message": "Ethereum tárca a böngészőjében",
+    "message": "Wanliuno tárca a böngészőjében",
     "description": "The description of the application"
   },
   "approve": {
@@ -156,10 +156,10 @@
     "message": "A MetaMaskot Kaliforniában tervezték és hozták létre."
   },
   "buyWithWyre": {
-    "message": "Vásároljon ETH-t a Wyre-rel"
+    "message": "Vásároljon WLI-t a Wyre-rel"
   },
   "buyWithWyreDescription": {
-    "message": "A Wyre segítségével egyensen a MetaMaks fiókjában tehet letétbe ETH-t."
+    "message": "A Wyre segítségével egyensen a MetaMaks fiókjában tehet letétbe WLI-t."
   },
   "buyCoinSwitch": {
     "message": "Vegye meg a CoinSwitchen"
@@ -234,7 +234,7 @@
     "message": "Csatlakozás a Kovan teszthálózathoz"
   },
   "connectingToMainnet": {
-    "message": "Csatlakozás a fő Ethereum hálózathoz"
+    "message": "Csatlakozás a fő Wanliuno hálózathoz"
   },
   "connectingToRopsten": {
     "message": "Csatlakozás a Ropsten teszthálózathoz"
@@ -393,7 +393,7 @@
     "message": "Hiba történt az ENS név regisztrációjakor"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS név nem található a jelenlegi hálózaton. Próbálj váltani Ethereum főhálózatra."
+    "message": "ENS név nem található a jelenlegi hálózaton. Próbálj váltani Wanliuno főhálózatra."
   },
   "enterAnAlias": {
     "message": "Adjon meg álnevet"
@@ -405,7 +405,7 @@
     "message": "A folytatáshoz adja meg a jelszót"
   },
   "ethereumPublicAddress": {
-    "message": "Ethereum nyilvános címe"
+    "message": "Wanliuno nyilvános címe"
   },
   "etherscanView": {
     "message": "Fiók megtekintése Etherscanen"
@@ -569,7 +569,7 @@
     "message": "Ismert szerződéses cím."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Nem ETH hálózat, állítsa kisbetűre"
+    "message": "Nem WLI hálózat, állítsa kisbetűre"
   },
   "invalidInput": {
     "message": "Érvénytelen bevitel."
@@ -624,7 +624,7 @@
     "message": "Kilépés"
   },
   "mainnet": {
-    "message": "Fő Ethereum hálózat"
+    "message": "Fő Wanliuno hálózat"
   },
   "memorizePhrase": {
     "message": "Jegyezze meg ezt a szakaszt."
@@ -636,7 +636,7 @@
     "message": "Üzenet"
   },
   "metamaskDescription": {
-    "message": "Csatlakozás az Ethereumhoz és a decentralizált hálózathoz."
+    "message": "Csatlakozás az Wanliunohoz és a decentralizált hálózathoz."
   },
   "metamaskVersion": {
     "message": "MetaMask verzió"
@@ -664,7 +664,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Nem lehet negatív mennyiségű ETH-t küldeni."
+    "message": "Nem lehet negatív mennyiségű WLI-t küldeni."
   },
   "networkName": {
     "message": "Hálózat neve"
@@ -795,7 +795,7 @@
     "message": "Elsődleges pénznem"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Válaszd a helyit, hogy az értékek elsősorban a helyi pénznemben jelenjenek meg (pl. ETH). Válaszd a Fiatot, hogy az értékek elsősorban a választott fiat pénznemben jelenjenek meg."
+    "message": "Válaszd a helyit, hogy az értékek elsősorban a helyi pénznemben jelenjenek meg (pl. WLI). Válaszd a Fiatot, hogy az értékek elsősorban a választott fiat pénznemben jelenjenek meg."
   },
   "privacyMsg": {
     "message": "Adatvédelmi szabályzat"
@@ -972,8 +972,8 @@
   "sendAmount": {
     "message": "Összeg küldése"
   },
-  "sendETH": {
-    "message": "ETH küldése"
+  "sendWLI": {
+    "message": "WLI küldése"
   },
   "sendTokens": {
     "message": "Token küldése"
@@ -1084,7 +1084,7 @@
     "message": "3. Kezdje el használni a dApps-t és másokat!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Használja hardveres fiókját úgy, mint bármilyen Ethereum fiókot. Jelentkezzen be a dAppsba, küldjön Ethet, vásároljon és tároljon ERC20 tokeneket és nem helyettesíthető tokeneket, például CryptoKitties-t."
+    "message": "Használja hardveres fiókját úgy, mint bármilyen Wanliuno fiókot. Jelentkezzen be a dAppsba, küldjön Ethet, vásároljon és tároljon ERC20 tokeneket és nem helyettesíthető tokeneket, például CryptoKitties-t."
   },
   "storePhrase": {
     "message": "Tárolja a mondatot jelszókezelőben, például az 1Passwordben."

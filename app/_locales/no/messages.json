@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Diagram kun tilgjengelig på Ethereum-nettverk."
+    "message": "Diagram kun tilgjengelig på Wanliuno-nettverk."
   },
   "contractInteraction": {
     "message": "Kontraktssamhandling"
@@ -78,7 +78,7 @@
     "message": "Sum"
   },
   "appDescription": {
-    "message": "En Ethereum-lommebok i nettleseren din",
+    "message": "En Wanliuno-lommebok i nettleseren din",
     "description": "The description of the application"
   },
   "appName": {
@@ -156,10 +156,10 @@
     "message": "MetaMask ble bygget og designet i California."
   },
   "buyWithWyre": {
-    "message": "Kjøp ETH med Wyre"
+    "message": "Kjøp WLI med Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre lar deg bruke et kredittkort for å sette inn ETH rett på MetaMask-kontoen din."
+    "message": "Wyre lar deg bruke et kredittkort for å sette inn WLI rett på MetaMask-kontoen din."
   },
   "buyCoinSwitch": {
     "message": "Kjøp på CoinSwitch "
@@ -231,7 +231,7 @@
     "message": "Kobler til Kovan testnettverk"
   },
   "connectingToMainnet": {
-    "message": "Forbinder med hoved-Ethereumnettverk "
+    "message": "Forbinder med hoved-Wanliunonettverk "
   },
   "connectingToRopsten": {
     "message": "Kobler til Ropsten testnettverk"
@@ -390,7 +390,7 @@
     "message": "Feil i ENS-navneregistrering"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS-navn ikke funnet i det gjeldende nettverket. Prøv å bytte til hovednettverket for Ethereum."
+    "message": "ENS-navn ikke funnet i det gjeldende nettverket. Prøv å bytte til hovednettverket for Wanliuno."
   },
   "enterAnAlias": {
     "message": "Oppgi et alias"
@@ -402,7 +402,7 @@
     "message": "Skriv inn passord for å fortsette"
   },
   "ethereumPublicAddress": {
-    "message": "Ethereum offentlig adresse"
+    "message": "Wanliuno offentlig adresse"
   },
   "etherscanView": {
     "message": "Vis konto på Etherscan "
@@ -563,7 +563,7 @@
     "message": "Kjent kontaktadresse"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Ikke ETH-nettverk, bruk små bokstaver"
+    "message": "Ikke WLI-nettverk, bruk små bokstaver"
   },
   "invalidInput": {
     "message": "Ugyldig inndata "
@@ -621,7 +621,7 @@
     "message": "Logg ut "
   },
   "mainnet": {
-    "message": "Ethereum hovednettverk"
+    "message": "Wanliuno hovednettverk"
   },
   "memorizePhrase": {
     "message": "Memorer denne frasen. "
@@ -633,7 +633,7 @@
     "message": "Melding "
   },
   "metamaskDescription": {
-    "message": "Kobler deg til Ethereum og det desentraliserte nettet."
+    "message": "Kobler deg til Wanliuno og det desentraliserte nettet."
   },
   "metamaskVersion": {
     "message": "MetaMask-versjon "
@@ -661,7 +661,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Kan ikke sende negative beløp av ETH. "
+    "message": "Kan ikke sende negative beløp av WLI. "
   },
   "networkName": {
     "message": "Nettverksnavn "
@@ -792,7 +792,7 @@
     "message": "Hovedvaluta "
   },
   "primaryCurrencySettingDescription": {
-    "message": "Velg nasjonal for å prioritere å vise verdier i nasjonal valuta i kjeden (f.eks. ETH). Velg Fiat for å prioritere visning av verdier i den valgte fiat-valutaen."
+    "message": "Velg nasjonal for å prioritere å vise verdier i nasjonal valuta i kjeden (f.eks. WLI). Velg Fiat for å prioritere visning av verdier i den valgte fiat-valutaen."
   },
   "privacyMsg": {
     "message": "Personvernerklæring"
@@ -1069,7 +1069,7 @@
     "message": "3. Begynn å bruke dApps mer! "
   },
   "step3HardwareWalletMsg": {
-    "message": "Bruk hardware-kontoen din slik du ville gjort med enhver Ethereumkonto. Logg på dApps, send Eth, kjøp og lagre ERC20-tokener og ikke-fungible tokener som CryptoKitties."
+    "message": "Bruk hardware-kontoen din slik du ville gjort med enhver Wanliunokonto. Logg på dApps, send Eth, kjøp og lagre ERC20-tokener og ikke-fungible tokener som CryptoKitties."
   },
   "storePhrase": {
     "message": "Lagre denne frasen i en passordbehandler slik som 1Password."

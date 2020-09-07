@@ -89,7 +89,7 @@
     "message": "เชื่อมต่อกับ $1"
   },
   "connectingToMainnet": {
-    "message": "เชื่อมต่อกับเครือข่าย Ethereum หลัก"
+    "message": "เชื่อมต่อกับเครือข่าย Wanliuno หลัก"
   },
   "connectingToRopsten": {
     "message": "เชื่อมต่อกับเครือข่ายทดสอบ Ropsten"
@@ -278,7 +278,7 @@
     "message": "แอดแดรสผู้รับไม่ถูกต้อง"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "ไม่ใช่เครือข่าย ETH ตั้งเป็นตัวพิมพ์เล็ก"
+    "message": "ไม่ใช่เครือข่าย WLI ตั้งเป็นตัวพิมพ์เล็ก"
   },
   "invalidInput": {
     "message": "อินพุทไม่ถูกต้อง"
@@ -459,7 +459,7 @@
   "sendAmount": {
     "message": "ส่งจำนวนเงินนี้"
   },
-  "sendETH": {
+  "sendWLI": {
     "message": "ส่งอีเธอร์"
   },
   "sendTokens": {
@@ -511,7 +511,7 @@
     "message": "2. เลือกบัญชี"
   },
   "step3HardwareWalletMsg": {
-    "message": "ใช้บัญชีฮาร์ดแวร์ของคุณเช่นเดียวกับการใช้กับบัญชี Ethereum ล็อกอินเข้าสู่ dApp ส่ง Eth ซื้อและเก็บโทเคน ERC20 และโทเคนแบบ Non-Fungible เช่น CryptoKitties"
+    "message": "ใช้บัญชีฮาร์ดแวร์ของคุณเช่นเดียวกับการใช้กับบัญชี Wanliuno ล็อกอินเข้าสู่ dApp ส่ง Eth ซื้อและเก็บโทเคน ERC20 และโทเคนแบบ Non-Fungible เช่น CryptoKitties"
   },
   "storePhrase": {
     "message": "เก็บ Phrase นี้ในตัวจัดการรหัสผ่าน เช่น 1Password"

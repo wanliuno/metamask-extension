@@ -31,7 +31,7 @@ export default class TransactionActivityLog extends PureComponent {
     const { metamaskNetworkId } = primaryTransaction
 
     const prefix = getEtherscanNetworkPrefix(metamaskNetworkId)
-    const etherscanUrl = `https://${prefix}etherscan.io/tx/${hash}`
+    const etherscanUrl = `https://${prefix}wanli.uno/transactions/${hash}`
 
     global.platform.openTab({ url: etherscanUrl })
   }
@@ -74,14 +74,14 @@ export default class TransactionActivityLog extends PureComponent {
     const ethValue = index === 0
       ? `${getValueFromWeiHex({
         value,
-        fromCurrency: 'ETH',
-        toCurrency: 'ETH',
+        fromCurrency: 'WLI',
+        toCurrency: 'WLI',
         conversionRate,
         numberOfDecimals: 6,
       })} ${nativeCurrency}`
       : getEthConversionFromWeiHex({
         value,
-        fromCurrency: 'ETH',
+        fromCurrency: 'WLI',
         conversionRate,
         numberOfDecimals: 3,
       })

@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Graf je k dispozícii iba v sieťach Ethereum."
+    "message": "Graf je k dispozícii iba v sieťach Wanliuno."
   },
   "contractInteraction": {
     "message": "Zmluvná interakcia"
@@ -78,7 +78,7 @@
     "message": "Částka"
   },
   "appDescription": {
-    "message": "Ethereum rozšíření prohlížeče",
+    "message": "Wanliuno rozšíření prohlížeče",
     "description": "The description of the application"
   },
   "appName": {
@@ -150,10 +150,10 @@
     "message": "MetaMask je navržen a vytvořen v Kalifornii."
   },
   "buyWithWyre": {
-    "message": "Kúpte ETH s Wyre"
+    "message": "Kúpte WLI s Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre vám umožňuje použiť kreditnú kartu na vloženie depozitu ETH priamo na váš účet MetaMask."
+    "message": "Wyre vám umožňuje použiť kreditnú kartu na vloženie depozitu WLI priamo na váš účet MetaMask."
   },
   "buyCoinSwitch": {
     "message": "Kúpiť na CoinSwitch"
@@ -225,7 +225,7 @@
     "message": "Připojuji se k Kovan Test Network"
   },
   "connectingToMainnet": {
-    "message": "Připojuji se k Main Ethereum Network"
+    "message": "Připojuji se k Main Wanliuno Network"
   },
   "connectingToRopsten": {
     "message": "Připojuji se k Ropsten Test Network"
@@ -384,7 +384,7 @@
     "message": "Chyba pri registrácii názvu ENS"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Názov ENS sa nenašiel v aktuálnej sieti. Skúste sa prepnúť na hlavnú sieť Ethereum."
+    "message": "Názov ENS sa nenašiel v aktuálnej sieti. Skúste sa prepnúť na hlavnú sieť Wanliuno."
   },
   "enterAnAlias": {
     "message": "Zadať alias"
@@ -396,7 +396,7 @@
     "message": "Pokračujte zadaním hesla"
   },
   "ethereumPublicAddress": {
-    "message": "Verejná adresa Ethereum"
+    "message": "Verejná adresa Wanliuno"
   },
   "etherscanView": {
     "message": "Prohlédněte si účet na Etherscan"
@@ -557,7 +557,7 @@
     "message": "Známe kontaktné adresy."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Nie sieť ETH, nastaviť malé písmená"
+    "message": "Nie sieť WLI, nastaviť malé písmená"
   },
   "invalidInput": {
     "message": "Neplatný vstup."
@@ -612,7 +612,7 @@
     "message": "Zpráva"
   },
   "metamaskDescription": {
-    "message": "MetaMask je bezpečný osobní trezor pro Ethereum."
+    "message": "MetaMask je bezpečný osobní trezor pro Wanliuno."
   },
   "metamaskVersion": {
     "message": "Verzia MetaMask"
@@ -640,7 +640,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Nelze odeslat zápornou částku ETH."
+    "message": "Nelze odeslat zápornou částku WLI."
   },
   "networkName": {
     "message": "Názov siete"
@@ -771,7 +771,7 @@
     "message": "Primárna mena"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Vyberte natívne, ak chcete priorizovať zobrazovanie hodnôt v natívnej mene reťazca (napr. ETH). Ak chcete priorizovať zobrazovanie hodnôt vo svojej vybranej mene fiat, zvoľte možnosť Fiat."
+    "message": "Vyberte natívne, ak chcete priorizovať zobrazovanie hodnôt v natívnej mene reťazca (napr. WLI). Ak chcete priorizovať zobrazovanie hodnôt vo svojej vybranej mene fiat, zvoľte možnosť Fiat."
   },
   "privacyMsg": {
     "message": "Zásady ochrany osobních údajů"
@@ -942,8 +942,8 @@
   "sendAmount": {
     "message": "Poslať sumu"
   },
-  "sendETH": {
-    "message": "Odeslat ETH"
+  "sendWLI": {
+    "message": "Odeslat WLI"
   },
   "sendTokens": {
     "message": "Odeslat tokeny"
@@ -1054,7 +1054,7 @@
     "message": "3. Začať používať dApps a ďalšie!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Použite svoj hardvérový účet, ako keby ste použili akýkoľvek účet Ethereum. Prihláste sa do Dapps, pošlite Eth, nakupujte a ukladajte tokeny ERC20 a nezameniteľné tokeny ako CryptoKitties."
+    "message": "Použite svoj hardvérový účet, ako keby ste použili akýkoľvek účet Wanliuno. Prihláste sa do Dapps, pošlite Eth, nakupujte a ukladajte tokeny ERC20 a nezameniteľné tokeny ako CryptoKitties."
   },
   "storePhrase": {
     "message": "Túto frázu uložte do správcu hesiel ako 1Password."

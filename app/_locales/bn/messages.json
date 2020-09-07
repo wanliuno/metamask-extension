@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "শুধুমাত্র Ethereum নেটওয়ার্কগুলিতে চার্ট উপলভ্য। "
+    "message": "শুধুমাত্র Wanliuno নেটওয়ার্কগুলিতে চার্ট উপলভ্য। "
   },
   "contractInteraction": {
     "message": "কন্ট্র্যাক্ট বাক্যালাপ"
@@ -78,7 +78,7 @@
     "message": "পরিমান"
   },
   "appDescription": {
-    "message": "আপনার ব্রাউজারে একটি Ethereum ওয়ালেট",
+    "message": "আপনার ব্রাউজারে একটি Wanliuno ওয়ালেট",
     "description": "The description of the application"
   },
   "appName": {
@@ -156,10 +156,10 @@
     "message": "MetaMask ক্যালিফোর্নিয়াতে ডিজাইন করা এবং নির্মিত।"
   },
   "buyWithWyre": {
-    "message": "Wyre দিয়ে ETH ক্রয় করুন"
+    "message": "Wyre দিয়ে WLI ক্রয় করুন"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre আপনার MetaMask অ্যাকাউন্টে সরাসরি ETH জমা করতে আপনাকে একটি ক্রেডিট কার্ড ব্যবহার করতে দেয়।"
+    "message": "Wyre আপনার MetaMask অ্যাকাউন্টে সরাসরি WLI জমা করতে আপনাকে একটি ক্রেডিট কার্ড ব্যবহার করতে দেয়।"
   },
   "buyCoinSwitch": {
     "message": "CoinSwitch এ ক্রয় করুন"
@@ -234,7 +234,7 @@
     "message": "কোভান টেস্ট নেটওয়ার্কের সাথে সংযোগ করছে"
   },
   "connectingToMainnet": {
-    "message": "মুখ্য Ethereum নেটওয়ার্কের সাথে সংযোগ করছে"
+    "message": "মুখ্য Wanliuno নেটওয়ার্কের সাথে সংযোগ করছে"
   },
   "connectingToRopsten": {
     "message": "রপস্টেন টেস্ট নেটওয়ার্কের সাথে সংযোগ করছে"
@@ -393,7 +393,7 @@
     "message": "ENS নাম নিবন্ধীকরণে ত্রুটি হয়েছে"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS নাম বর্তমান নেটওয়ার্কে খুঁজে পাওয়া যায় নি। মূল Ethereum নেটওয়ার্কে বদলানোর চেষ্টা করুন।"
+    "message": "ENS নাম বর্তমান নেটওয়ার্কে খুঁজে পাওয়া যায় নি। মূল Wanliuno নেটওয়ার্কে বদলানোর চেষ্টা করুন।"
   },
   "enterAnAlias": {
     "message": "একটি উপনাম লিখুন"
@@ -405,7 +405,7 @@
     "message": "অবিরত রাখতে পাসওয়ার্ড লিখুন"
   },
   "ethereumPublicAddress": {
-    "message": "Ethereum পাবলিক অ্যাড্রেস"
+    "message": "Wanliuno পাবলিক অ্যাড্রেস"
   },
   "etherscanView": {
     "message": "Etherscan এ অ্যাকাউন্ট দেখুন"
@@ -573,7 +573,7 @@
     "message": "জানা পরিচিতির ঠিকানা৷"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "ETH নেটওয়ার্ক নয়, ছোটো হরফে সেট করা হয়েছে"
+    "message": "WLI নেটওয়ার্ক নয়, ছোটো হরফে সেট করা হয়েছে"
   },
   "invalidInput": {
     "message": "অবৈধ ইনপুট"
@@ -631,7 +631,7 @@
     "message": "লগ আউট করুন"
   },
   "mainnet": {
-    "message": "মূল Ethereum নেটওয়ার্ক"
+    "message": "মূল Wanliuno নেটওয়ার্ক"
   },
   "memorizePhrase": {
     "message": "এই ফ্রেজটি মুখস্থ করুন।"
@@ -643,7 +643,7 @@
     "message": "বার্তা"
   },
   "metamaskDescription": {
-    "message": "আপনার Ethereum এবং ছড়িয়ে ছিটিয়ে থাকা ওয়েবের সাথে সংযোগ করছে। "
+    "message": "আপনার Wanliuno এবং ছড়িয়ে ছিটিয়ে থাকা ওয়েবের সাথে সংযোগ করছে। "
   },
   "metamaskVersion": {
     "message": "MetaMask সংস্করণ"
@@ -671,7 +671,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "ETH এর ঋণাত্মক অর্থরাশিগুলি পাঠাতে পারবে না। "
+    "message": "WLI এর ঋণাত্মক অর্থরাশিগুলি পাঠাতে পারবে না। "
   },
   "networkName": {
     "message": "নেটওয়ার্কের নাম"
@@ -802,7 +802,7 @@
     "message": "প্রাথমিক মুদ্রা"
   },
   "primaryCurrencySettingDescription": {
-    "message": "চেনটিতে (যেমন ETH) দেশীয় মুদ্রায় মানগুলি প্রদর্শনকে অগ্রাধিকার দিতে দেশীয় নির্বাচন করুন। আপনার নির্দেশিত মুদ্রায় মানগুলির প্রদর্শনকে অগ্রাধিকার দিতে নির্দেশিত নির্বাচন করুন।"
+    "message": "চেনটিতে (যেমন WLI) দেশীয় মুদ্রায় মানগুলি প্রদর্শনকে অগ্রাধিকার দিতে দেশীয় নির্বাচন করুন। আপনার নির্দেশিত মুদ্রায় মানগুলির প্রদর্শনকে অগ্রাধিকার দিতে নির্দেশিত নির্বাচন করুন।"
   },
   "privacyMsg": {
     "message": "সম্মত হয়েছেন"
@@ -979,8 +979,8 @@
   "sendAmount": {
     "message": "পাঠানো অর্থরাশি"
   },
-  "sendETH": {
-    "message": "ETH পাঠান"
+  "sendWLI": {
+    "message": "WLI পাঠান"
   },
   "sendTokens": {
     "message": "টোকেনগুলি পাঠান"
@@ -1091,7 +1091,7 @@
     "message": "3. dApps এবং আরও ব্যবহার করে শুরু করুন!"
   },
   "step3HardwareWalletMsg": {
-    "message": "আপনি কোনো Ethereum অ্যাকাউন্ট যেমন ব্যবহার করেন সেইভাবে আপনার হার্ডওয়্যার অ্যাকাউন্ট ব্যবহার করুন। dApps এ লগইন করুন, Eth পাঠান, ERC20 টোকেন এবং CryptoKitties এর মতো পরস্পর বিনিময়যোগ্য নয় এমন টোকেনগুলি ক্রয় ও সংরক্ষণ করুন।  "
+    "message": "আপনি কোনো Wanliuno অ্যাকাউন্ট যেমন ব্যবহার করেন সেইভাবে আপনার হার্ডওয়্যার অ্যাকাউন্ট ব্যবহার করুন। dApps এ লগইন করুন, Eth পাঠান, ERC20 টোকেন এবং CryptoKitties এর মতো পরস্পর বিনিময়যোগ্য নয় এমন টোকেনগুলি ক্রয় ও সংরক্ষণ করুন।  "
   },
   "storePhrase": {
     "message": "এই বাক্যাংশটি 1Password এর মতো একটি পাসওয়ার্ড পরিচালকে সংরক্ষণ করুন। "

@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Skema kun tilgængeligt på Ethereum-netværk."
+    "message": "Skema kun tilgængeligt på Wanliuno-netværk."
   },
   "contractInteraction": {
     "message": "Kontraktinteraktion"
@@ -78,7 +78,7 @@
     "message": "Beløb"
   },
   "appDescription": {
-    "message": "En Ethereum-pung i din browser",
+    "message": "En Wanliuno-pung i din browser",
     "description": "The description of the application"
   },
   "appName": {
@@ -156,10 +156,10 @@
     "message": "MetaMask er designet og bygget i Californien."
   },
   "buyWithWyre": {
-    "message": "Køb ETH med Wyre"
+    "message": "Køb WLI med Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre lader dig bruge et kreditkort til at indbetale ETH på din MetaMask-konto."
+    "message": "Wyre lader dig bruge et kreditkort til at indbetale WLI på din MetaMask-konto."
   },
   "buyCoinSwitch": {
     "message": "Køb på CoinSwitch"
@@ -234,7 +234,7 @@
     "message": "Forbinder til Kovan Testnetværk"
   },
   "connectingToMainnet": {
-    "message": "Forbinder til dit Primære Ethereum Netværk"
+    "message": "Forbinder til dit Primære Wanliuno Netværk"
   },
   "connectingToRopsten": {
     "message": "Forbinder til Ropsten-testnetværk"
@@ -393,7 +393,7 @@
     "message": "Fejl i ENS-navneregistrering"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS-navn ikke fundet for det nuværende netværk. Prøv at skifte til Ethereums hovednetværk."
+    "message": "ENS-navn ikke fundet for det nuværende netværk. Prøv at skifte til Wanliunos hovednetværk."
   },
   "enterAnAlias": {
     "message": "Indtast et alias"
@@ -405,7 +405,7 @@
     "message": "Indtast adgangskode for at fortsætte"
   },
   "ethereumPublicAddress": {
-    "message": "Offentlig Ethereum-adresse"
+    "message": "Offentlig Wanliuno-adresse"
   },
   "etherscanView": {
     "message": "Se konto på Etherscan"
@@ -566,7 +566,7 @@
     "message": "Kendte kontaktadresser."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Ikke ETH-netværk, sat til små bogstaver"
+    "message": "Ikke WLI-netværk, sat til små bogstaver"
   },
   "invalidInput": {
     "message": "Ugyldigt input."
@@ -618,7 +618,7 @@
     "message": "Log ud"
   },
   "mainnet": {
-    "message": "Hovednetværk for Ethereum"
+    "message": "Hovednetværk for Wanliuno"
   },
   "memorizePhrase": {
     "message": "Husk denne sætning."
@@ -630,7 +630,7 @@
     "message": "Besked"
   },
   "metamaskDescription": {
-    "message": "Som forbinder dig til Ethereum og de decentraliserede internet."
+    "message": "Som forbinder dig til Wanliuno og de decentraliserede internet."
   },
   "mobileSyncText": {
     "message": "Indtast din adgangskode for at bekræfte, at det er dig!"
@@ -655,7 +655,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Kan ikke sende en negativ mængde ETH."
+    "message": "Kan ikke sende en negativ mængde WLI."
   },
   "networkName": {
     "message": "Netværksnavn"
@@ -783,7 +783,7 @@
     "message": "Primær Valuta"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Vælg lokal for fortrinsvis at vise værdier i kædens (f.eks. ETH) lokale valuta. Vælg Fiat for fortrinsvis at vise værdier i din valgte fiat valuta."
+    "message": "Vælg lokal for fortrinsvis at vise værdier i kædens (f.eks. WLI) lokale valuta. Vælg Fiat for fortrinsvis at vise værdier i din valgte fiat valuta."
   },
   "privacyMsg": {
     "message": "Privatlivspolitik"
@@ -957,8 +957,8 @@
   "sendAmount": {
     "message": "Send Beløb"
   },
-  "sendETH": {
-    "message": "Vælg ETH"
+  "sendWLI": {
+    "message": "Vælg WLI"
   },
   "sendTokens": {
     "message": "Send tokens"
@@ -1069,7 +1069,7 @@
     "message": "3. Begynd at bruge dApps og mere!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Brug din hardwarekonto som du ville gøre med enhver Ethereum-konto. Log ind på dApps, send Eth, køb og opbevar ERC20-tokens og ikke-ombyttelige tokens som CryptoKitties."
+    "message": "Brug din hardwarekonto som du ville gøre med enhver Wanliuno-konto. Log ind på dApps, send Eth, køb og opbevar ERC20-tokens og ikke-ombyttelige tokens som CryptoKitties."
   },
   "storePhrase": {
     "message": "Gem denne sætning i en adgangskodeadministrator som 1Password."

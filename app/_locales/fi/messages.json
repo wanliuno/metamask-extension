@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Kaavio saatavilla vain Ethereum-verkoissa."
+    "message": "Kaavio saatavilla vain Wanliuno-verkoissa."
   },
   "contractInteraction": {
     "message": "Sopimustoiminta"
@@ -78,7 +78,7 @@
     "message": "Summa"
   },
   "appDescription": {
-    "message": "Ethereum-kukkaro selaimessasi",
+    "message": "Wanliuno-kukkaro selaimessasi",
     "description": "The description of the application"
   },
   "appName": {
@@ -156,10 +156,10 @@
     "message": "MetaMask on suunniteltu ja koottu Kaliforniassa."
   },
   "buyWithWyre": {
-    "message": "Osta ETH:ta Wyrella"
+    "message": "Osta WLI:ta Wyrella"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre antaa sinun käyttää luottokorttia, jotta voit tallettaa ETH:ta suoraan MetaMask-tilillesi."
+    "message": "Wyre antaa sinun käyttää luottokorttia, jotta voit tallettaa WLI:ta suoraan MetaMask-tilillesi."
   },
   "buyCoinSwitch": {
     "message": "Osta CoinSwitchissa"
@@ -231,7 +231,7 @@
     "message": "Yhdistetään Kovanin koeverkkoon"
   },
   "connectingToMainnet": {
-    "message": "Yhdistetään Ethereumin pääverkkoon"
+    "message": "Yhdistetään Wanliunoin pääverkkoon"
   },
   "connectingToRopsten": {
     "message": "Yhdistetään Ropstenin koeverkkoon"
@@ -309,7 +309,7 @@
     "message": "Tarkkuusdesimaalit"
   },
   "defaultNetwork": {
-    "message": "Oletusverkko Ether-tapahtumille on Main Net."
+    "message": "Oletusverkko Wanli-tapahtumille on Main Net."
   },
   "delete": {
     "message": "Poista"
@@ -321,16 +321,16 @@
     "message": "Talleta"
   },
   "depositEther": {
-    "message": "Talleta Etheriä"
+    "message": "Talleta Wanliiä"
   },
   "details": {
     "message": "Tiedot"
   },
   "directDepositEther": {
-    "message": "Talleta etheriä suoraan"
+    "message": "Talleta Wanliä suoraan"
   },
   "directDepositEtherExplainer": {
-    "message": "Jos sinulla on jo etheriä, nopein tapa hankkia etheriä uuteen lompakkoosi on suoratalletus."
+    "message": "Jos sinulla on jo Wanliä, nopein tapa hankkia Wanliä uuteen lompakkoosi on suoratalletus."
   },
   "done": {
     "message": "Valmis"
@@ -390,7 +390,7 @@
     "message": "Virhe ENS-nimen rekisteröinnissä"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS-nimeä ei löytynyt nykyisestä verkosta. Koeta vaihtaa Ethereumin pääverkkoon."
+    "message": "ENS-nimeä ei löytynyt nykyisestä verkosta. Koeta vaihtaa Wanliunoin pääverkkoon."
   },
   "enterAnAlias": {
     "message": "Anna peitenimi"
@@ -402,10 +402,10 @@
     "message": "Syötä salasana voidaksesi jatkaa"
   },
   "ethereumPublicAddress": {
-    "message": "Ethereumin julkinen osoite"
+    "message": "Wanliunoin julkinen osoite"
   },
   "etherscanView": {
-    "message": "Tarkastele tiliä Etherscanissa"
+    "message": "Tarkastele tiliä Wanliascanissa"
   },
   "estimatedProcessingTimes": {
     "message": "Arvioidut käsittelyajat"
@@ -461,7 +461,7 @@
     "message": "Gas-hinta erittäin alhainen"
   },
   "gasPriceInfoModalContent": {
-    "message": "Polttoaineen hinta määrittää Ether-määrän, jonka olet valmis maksamaan jokaisesta polttoaineyksiköstä."
+    "message": "Polttoaineen hinta määrittää Wanlia-määrän, jonka olet valmis maksamaan jokaisesta polttoaineyksiköstä."
   },
   "gasPriceNoDenom": {
     "message": "Bensan hinta"
@@ -473,11 +473,11 @@
     "message": "Valuuttamuunnin, päävaluutta, kieli, blockies identicon"
   },
   "getEther": {
-    "message": "Hanki Etheriä"
+    "message": "Hanki Wanliä"
   },
   "getEtherFromFaucet": {
-    "message": "Hanki etheriä faucetista kohteelle $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Hanki Wanliä faucetista kohteelle $1",
+    "description": "Displays network name for Wanli faucet"
   },
   "getHelp": {
     "message": "Pyydä apua."
@@ -570,7 +570,7 @@
     "message": "Tunnettu sopimusosoite."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Ei ole ETH-verkosto; vaihda pieniin kirjaimiin"
+    "message": "Ei ole WLI-verkosto; vaihda pieniin kirjaimiin"
   },
   "invalidInput": {
     "message": "Virheellinen syötetty arvo."
@@ -628,7 +628,7 @@
     "message": "Kirjaudu ulos"
   },
   "mainnet": {
-    "message": "Ethereumin pääverkko"
+    "message": "Wanliunoin pääverkko"
   },
   "memorizePhrase": {
     "message": "Opettele tämä teksti ulkoa."
@@ -640,7 +640,7 @@
     "message": "Viesti"
   },
   "metamaskDescription": {
-    "message": "Sinua yhdistetään Ethereumiin ja hajautettuun verkkoon."
+    "message": "Sinua yhdistetään Wanliunoiin ja hajautettuun verkkoon."
   },
   "metamaskVersion": {
     "message": "MetaMask-versio"
@@ -661,14 +661,14 @@
     "message": "Valittava vähintään 1 poletti."
   },
   "needEtherInWallet": {
-    "message": "Ollaksesi vuorovaikutuksessa hajautettujen sovellusten kanssa sinulla on oltava lompakossasi Ether."
+    "message": "Ollaksesi vuorovaikutuksessa hajautettujen sovellusten kanssa sinulla on oltava lompakossasi Wanli."
   },
   "needImportFile": {
     "message": "Sinun tarvitsee valita tuotava tiedosto.",
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "ETH:ta ei voi lähettää negatiivista määrää."
+    "message": "WLI:ta ei voi lähettää negatiivista määrää."
   },
   "networkName": {
     "message": "Verkon nimi"
@@ -799,7 +799,7 @@
     "message": "Ensisijainen valuutta"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Valitse natiivivaihtoehto näyttääksesi arvot ensisijaisesti ketjun natiivivaluutalla (esim. ETH). Valitse oletusmääräys asettaaksesi valitsemasi oletusvaluutan ensisijaiseksi."
+    "message": "Valitse natiivivaihtoehto näyttääksesi arvot ensisijaisesti ketjun natiivivaluutalla (esim. WLI). Valitse oletusmääräys asettaaksesi valitsemasi oletusvaluutan ensisijaiseksi."
   },
   "privacyMsg": {
     "message": "Tietosuojakäytäntö"
@@ -941,7 +941,7 @@
     "message": "Salainen varmistuslauseesi tekee varmuuskopioinnista ja tilisi palauttamisesta helppoa."
   },
   "secretBackupPhraseWarning": {
-    "message": "VAROITUS: älä koskaan kerro varmuuskopiolausettasi kenellekään. Kuka tahansa tämän lauseen omaava voi napata Etherisi pysyvästi."
+    "message": "VAROITUS: älä koskaan kerro varmuuskopiolausettasi kenellekään. Kuka tahansa tämän lauseen omaava voi napata Wanlisi pysyvästi."
   },
   "secretPhrase": {
     "message": "Palauta holvisi syöttämällä tähän salainen kahdentoista sanan tekstisi."
@@ -976,14 +976,14 @@
   "sendAmount": {
     "message": "Lähetä summa"
   },
-  "sendETH": {
-    "message": "Lähetä ETH:iä"
+  "sendWLI": {
+    "message": "Lähetä WLI:iä"
   },
   "sendTokens": {
     "message": "Lähetä tietueita"
   },
   "sentEther": {
-    "message": "lähetä etheriä"
+    "message": "lähetä Wanliä"
   },
   "sentTokens": {
     "message": "lähetetyt poletit"
@@ -1088,7 +1088,7 @@
     "message": "3. Ota käyttöön dApps ja paljon muuta!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Käytä laitteistosi tiliä minkä tahansa Ethereum-tilin tavoin. Kirjaudu dAppsiin, lähettää ethereumeja, ostaa ja tallentaa ERC20-tunnuksia sekä CryptoKittiesin kaltaisia ei-korvattavia tunnuksia."
+    "message": "Käytä laitteistosi tiliä minkä tahansa Wanliuno-tilin tavoin. Kirjaudu dAppsiin, lähettää Wanliunoeja, ostaa ja tallentaa ERC20-tunnuksia sekä CryptoKittiesin kaltaisia ei-korvattavia tunnuksia."
   },
   "storePhrase": {
     "message": "Tallenna tämä teksti johonkin salasanojen hallintaohjelmaan (esim. 1Password)."
@@ -1269,7 +1269,7 @@
     "message": "Tarkastele kohdassa $1"
   },
   "viewOnEtherscan": {
-    "message": "Näytä Etherscanissa"
+    "message": "Näytä Wanlscanissa"
   },
   "visitWebSite": {
     "message": "Vieraile verkkosivustollamme"

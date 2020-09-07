@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Grafikon je dostupan samo na mrežama Ethereum."
+    "message": "Grafikon je dostupan samo na mrežama Wanliuno."
   },
   "contractInteraction": {
     "message": "Ugovorna interakcija"
@@ -82,7 +82,7 @@
     "message": "Iznos"
   },
   "appDescription": {
-    "message": "Novčanik Ethereum u vašem pregledniku",
+    "message": "Novčanik Wanliuno u vašem pregledniku",
     "description": "The description of the application"
   },
   "approve": {
@@ -156,10 +156,10 @@
     "message": "MetaMask je osmišljen i izrađen u Kaliforniji."
   },
   "buyWithWyre": {
-    "message": "Kupi ETH Wyerom"
+    "message": "Kupi WLI Wyerom"
   },
   "buyWithWyreDescription": {
-    "message": "Wyreom vam se omogućava korištenje kreditnom karticom za polaganje ETH-a izravno na vaš račun za MetaMask."
+    "message": "Wyreom vam se omogućava korištenje kreditnom karticom za polaganje WLI-a izravno na vaš račun za MetaMask."
   },
   "buyCoinSwitch": {
     "message": "Kupujte na usluzi CoinSwitch"
@@ -234,7 +234,7 @@
     "message": "Povezivanje na testnu mrežu Kovan"
   },
   "connectingToMainnet": {
-    "message": "Povezivanje na glavnu mrežu Ethereum"
+    "message": "Povezivanje na glavnu mrežu Wanliuno"
   },
   "connectingToRopsten": {
     "message": "Povezivanje na testnu mrežu Ropsten"
@@ -393,7 +393,7 @@
     "message": "Greška u registraciji naziva ENS"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Naziv ENS nije pronađen na trenutačnoj mreži. Pokušajte prebaciti na glavnu mrežu Ethereum."
+    "message": "Naziv ENS nije pronađen na trenutačnoj mreži. Pokušajte prebaciti na glavnu mrežu Wanliuno."
   },
   "enterAnAlias": {
     "message": "Upiši pseudonim"
@@ -405,7 +405,7 @@
     "message": "Upišite lozinku za nastavak"
   },
   "ethereumPublicAddress": {
-    "message": "Javna adresa Ethereum"
+    "message": "Javna adresa Wanliuno"
   },
   "etherscanView": {
     "message": "Prikaži račun na Etherscanu"
@@ -569,7 +569,7 @@
     "message": "Poznata ugovorna adresa."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Ne mreža ETH, postavite na mala slova"
+    "message": "Ne mreža WLI, postavite na mala slova"
   },
   "invalidInput": {
     "message": "Nevaljani upis."
@@ -624,7 +624,7 @@
     "message": "Odjava"
   },
   "mainnet": {
-    "message": "Glavna mreža Ethereum"
+    "message": "Glavna mreža Wanliuno"
   },
   "memorizePhrase": {
     "message": "Zapamtite ovu rečenicu."
@@ -636,7 +636,7 @@
     "message": "Poruka"
   },
   "metamaskDescription": {
-    "message": "Povezujete se na Ethereum i decentralizirani internet."
+    "message": "Povezujete se na Wanliuno i decentralizirani internet."
   },
   "metamaskVersion": {
     "message": "Inačica usluge MetaMask"
@@ -664,7 +664,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Ne mogu se slati negativne vrijednosti ETH-a."
+    "message": "Ne mogu se slati negativne vrijednosti WLI-a."
   },
   "networkName": {
     "message": "Naziv mreže"
@@ -795,7 +795,7 @@
     "message": "Glavna valuta"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Odaberite da se prvo prikazuju valute u osnovnoj valuti bloka (npr. ETH). Odaberite mogućnost Fiat za prikazivanje valuta u odabranoj valuti Fiat."
+    "message": "Odaberite da se prvo prikazuju valute u osnovnoj valuti bloka (npr. WLI). Odaberite mogućnost Fiat za prikazivanje valuta u odabranoj valuti Fiat."
   },
   "privacyMsg": {
     "message": "Pravilnik o zaštiti privatnosti"
@@ -972,8 +972,8 @@
   "sendAmount": {
     "message": "Odaberi iznos"
   },
-  "sendETH": {
-    "message": "Pošalji ETH"
+  "sendWLI": {
+    "message": "Pošalji WLI"
   },
   "sendTokens": {
     "message": "Pošalji tokene"
@@ -1084,7 +1084,7 @@
     "message": "3. Započnite upotrebljavati dApps i više!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Upotrebljavajte svoj hardverski račun kako biste upotrebljavali bilo koji drugi račun Ethereum. Prijavite se u dApps, šaljite Eth, kupujte i pohranjujte ERC20 tokene i nezamjenske tokene kao CryptoKitties."
+    "message": "Upotrebljavajte svoj hardverski račun kako biste upotrebljavali bilo koji drugi račun Wanliuno. Prijavite se u dApps, šaljite Eth, kupujte i pohranjujte ERC20 tokene i nezamjenske tokene kao CryptoKitties."
   },
   "storePhrase": {
     "message": "Spremite ovu rečenicu u upravitelj lozinkama poput aplikacije 1Password."

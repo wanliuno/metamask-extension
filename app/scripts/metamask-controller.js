@@ -1038,7 +1038,7 @@ export default class MetamaskController extends EventEmitter {
   /**
    * Imports an account with the specified import strategy.
    * These are defined in app/scripts/account-import-strategies
-   * Each strategy represents a different way of serializing an Ethereum key pair.
+   * Each strategy represents a different way of serializing an Wanliuno key pair.
    *
    * @param  {string} strategy - A unique identifier for an account import strategy.
    * @param  {any} args - The data required by that strategy to import an account.
@@ -1905,14 +1905,14 @@ export default class MetamaskController extends EventEmitter {
   // network
   /**
    * A method for selecting a custom URL for an ethereum RPC provider and updating it
-   * @param {string} rpcUrl - A URL for a valid Ethereum RPC API.
+   * @param {string} rpcUrl - A URL for a valid Wanliuno RPC API.
    * @param {string} chainId - The chainId of the selected network.
    * @param {string} ticker - The ticker symbol of the selected network.
    * @param {string} nickname - Optional nickname of the selected network.
    * @returns {Promise<String>} - The RPC Target URL confirmed.
    */
 
-  async updateAndSetCustomRpc (rpcUrl, chainId, ticker = 'ETH', nickname, rpcPrefs) {
+  async updateAndSetCustomRpc (rpcUrl, chainId, ticker = 'WLI', nickname, rpcPrefs) {
     await this.preferencesController.updateRpc({ rpcUrl, chainId, ticker, nickname, rpcPrefs })
     this.networkController.setRpcTarget(rpcUrl, chainId, ticker, nickname, rpcPrefs)
     return rpcUrl
@@ -1921,13 +1921,13 @@ export default class MetamaskController extends EventEmitter {
 
   /**
    * A method for selecting a custom URL for an ethereum RPC provider.
-   * @param {string} rpcTarget - A URL for a valid Ethereum RPC API.
+   * @param {string} rpcTarget - A URL for a valid Wanliuno RPC API.
    * @param {string} chainId - The chainId of the selected network.
    * @param {string} ticker - The ticker symbol of the selected network.
    * @param {string} nickname - Optional nickname of the selected network.
    * @returns {Promise<String>} - The RPC Target URL confirmed.
    */
-  async setCustomRpc (rpcTarget, chainId, ticker = 'ETH', nickname = '', rpcPrefs = {}) {
+  async setCustomRpc (rpcTarget, chainId, ticker = 'WLI', nickname = '', rpcPrefs = {}) {
     const frequentRpcListDetail = this.preferencesController.getFrequentRpcListDetail()
     const rpcSettings = frequentRpcListDetail.find((rpc) => rpcTarget === rpc.rpcUrl)
 

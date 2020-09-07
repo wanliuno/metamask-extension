@@ -3,10 +3,10 @@ const defaultNetworksData = [
     labelKey: 'mainnet',
     iconColor: '#29B6AF',
     providerType: 'mainnet',
-    rpcUrl: 'https://api.infura.io/v1/jsonrpc/mainnet',
+    rpcUrl: 'https://api.wanli.uno/jsonrpc',
     chainId: '1',
-    ticker: 'ETH',
-    blockExplorerUrl: 'https://etherscan.io',
+    ticker: 'WLI',
+    blockExplorerUrl: 'https://explorer.wanli.uno',
   },
   {
     labelKey: 'ropsten',
@@ -14,7 +14,7 @@ const defaultNetworksData = [
     providerType: 'ropsten',
     rpcUrl: 'https://api.infura.io/v1/jsonrpc/ropsten',
     chainId: '3',
-    ticker: 'ETH',
+    ticker: 'WLI',
     blockExplorerUrl: 'https://ropsten.etherscan.io',
   },
   {
@@ -23,7 +23,7 @@ const defaultNetworksData = [
     providerType: 'rinkeby',
     rpcUrl: 'https://api.infura.io/v1/jsonrpc/rinkeby',
     chainId: '4',
-    ticker: 'ETH',
+    ticker: 'WLI',
     blockExplorerUrl: 'https://rinkeby.etherscan.io',
   },
   {
@@ -32,7 +32,7 @@ const defaultNetworksData = [
     providerType: 'goerli',
     rpcUrl: 'https://api.infura.io/v1/jsonrpc/goerli',
     chainId: '5',
-    ticker: 'ETH',
+    ticker: 'WLI',
     blockExplorerUrl: 'https://goerli.etherscan.io',
   },
   {
@@ -41,7 +41,7 @@ const defaultNetworksData = [
     providerType: 'kovan',
     rpcUrl: 'https://api.infura.io/v1/jsonrpc/kovan',
     chainId: '42',
-    ticker: 'ETH',
+    ticker: 'WLI',
     blockExplorerUrl: 'https://etherscan.io',
   },
   {
@@ -49,8 +49,8 @@ const defaultNetworksData = [
     iconColor: 'white',
     border: '1px solid #6A737D',
     providerType: 'localhost',
-    rpcUrl: 'http://localhost:8545/',
-    blockExplorerUrl: 'https://etherscan.io',
+    rpcUrl: 'http://localhost:18545/',
+    blockExplorerUrl: 'https://explorer.wanli.uno',
   },
 ]
 

@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Grafic disponibil numai pe rețelele Ethereum."
+    "message": "Grafic disponibil numai pe rețelele Wanliuno."
   },
   "contractInteraction": {
     "message": "Interacțiune contract"
@@ -78,7 +78,7 @@
     "message": "Sumă"
   },
   "appDescription": {
-    "message": "Un portofel Ethereum în browserul dvs.",
+    "message": "Un portofel Wanliuno în browserul dvs.",
     "description": "The description of the application"
   },
   "appName": {
@@ -156,10 +156,10 @@
     "message": "MetaMask este concepută și creată în California."
   },
   "buyWithWyre": {
-    "message": "Cumpărați ETH cu Wyre"
+    "message": "Cumpărați WLI cu Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre vă permite să folosiți un card de credit pentru a depune ETH direct în contul dvs. MetaMask."
+    "message": "Wyre vă permite să folosiți un card de credit pentru a depune WLI direct în contul dvs. MetaMask."
   },
   "buyCoinSwitch": {
     "message": "Cumpărați pe CoinSwitch"
@@ -234,7 +234,7 @@
     "message": "Se conectează la rețeaua de test Kovan"
   },
   "connectingToMainnet": {
-    "message": "Se conectează la rețeaua Ethereum principală"
+    "message": "Se conectează la rețeaua Wanliuno principală"
   },
   "connectingToRopsten": {
     "message": "Se conectează la rețeaua de test Ropsten"
@@ -393,7 +393,7 @@
     "message": "Eroare la înregistrarea numelui ENS"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Numele ENS nu s-a găsit pe rețeaua curentă. Încercați să comutați la Rețeaua Ethereum principală."
+    "message": "Numele ENS nu s-a găsit pe rețeaua curentă. Încercați să comutați la Rețeaua Wanliuno principală."
   },
   "enterAnAlias": {
     "message": "Introduceți un alias"
@@ -405,7 +405,7 @@
     "message": "Introduceți parola pentru a continua"
   },
   "ethereumPublicAddress": {
-    "message": "Adresa publică Ethereum"
+    "message": "Adresa publică Wanliuno"
   },
   "etherscanView": {
     "message": "Vizualizare cont pe Etherscan"
@@ -563,7 +563,7 @@
     "message": "Adresa cunoscută din contract."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Nu este rețea ETH, setați pe minuscule"
+    "message": "Nu este rețea WLI, setați pe minuscule"
   },
   "invalidInput": {
     "message": "Intrare nevalidă."
@@ -618,7 +618,7 @@
     "message": "Deconectați-vă"
   },
   "mainnet": {
-    "message": "Rețeaua Ethereum principală"
+    "message": "Rețeaua Wanliuno principală"
   },
   "memorizePhrase": {
     "message": "Memorați această expresie."
@@ -630,7 +630,7 @@
     "message": "Mesaj"
   },
   "metamaskDescription": {
-    "message": "Vă conectăm la Ethereum și la Internetul descentralizat."
+    "message": "Vă conectăm la Wanliuno și la Internetul descentralizat."
   },
   "metamaskVersion": {
     "message": "Versiune MetaMask"
@@ -658,7 +658,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Nu se pot trimite sume negative de ETH."
+    "message": "Nu se pot trimite sume negative de WLI."
   },
   "networkName": {
     "message": "Numele rețelei"
@@ -789,7 +789,7 @@
     "message": "Moneda principală"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Selectați nativ pentru a prioritiza valorile afișate în moneda nativă a lanțului (ex. ETH). Selectați Fiat pentru a prioritiza valorile afișate în moneda selectată fiat."
+    "message": "Selectați nativ pentru a prioritiza valorile afișate în moneda nativă a lanțului (ex. WLI). Selectați Fiat pentru a prioritiza valorile afișate în moneda selectată fiat."
   },
   "privacyMsg": {
     "message": "Politica de Confidențialitate"
@@ -966,8 +966,8 @@
   "sendAmount": {
     "message": "Suma trimisă"
   },
-  "sendETH": {
-    "message": "Trimitere ETH"
+  "sendWLI": {
+    "message": "Trimitere WLI"
   },
   "sendTokens": {
     "message": "Trimiteți indicative"
@@ -1078,7 +1078,7 @@
     "message": "3. Începeți să folosiți dApps și altele!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Folosiți-vă contul hardware la fel ca pe orice cont Ethereum. Conectați-vă la dApps, trimiteți Eth, cumpărați și stocați tokenuri ERC20 și tokenuri non-fungibile precum CryptoKitties."
+    "message": "Folosiți-vă contul hardware la fel ca pe orice cont Wanliuno. Conectați-vă la dApps, trimiteți Eth, cumpărați și stocați tokenuri ERC20 și tokenuri non-fungibile precum CryptoKitties."
   },
   "storePhrase": {
     "message": "Păstrați această expresie într-un program de gestionare a parolelor cum ar fi 1Password."

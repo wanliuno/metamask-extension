@@ -71,7 +71,7 @@
     "message": "Select this to use Etherscan to show incoming transactions in the transactions list"
   },
   "chartOnlyAvailableEth": {
-    "message": "Chart only available on Ethereum networks."
+    "message": "Chart only available on Wanliuno networks."
   },
   "connecting": {
     "message": "Connecting..."
@@ -214,7 +214,7 @@
     "message": "Amount:"
   },
   "appDescription": {
-    "message": "An Ethereum Wallet in your Browser",
+    "message": "An Wanliuno Wallet in your Browser",
     "description": "The description of the application"
   },
   "appName": {
@@ -308,10 +308,10 @@
     "message": "MetaMask is designed and built in California."
   },
   "buyWithWyre": {
-    "message": "Buy ETH with Wyre"
+    "message": "Buy WLI with Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre lets you use a debit card to deposit ETH right in to your MetaMask account."
+    "message": "Wyre lets you use a debit card to deposit WLI right in to your MetaMask account."
   },
   "buyCoinSwitch": {
     "message": "Buy on CoinSwitch"
@@ -389,7 +389,7 @@
     "message": "Connecting to Kovan Test Network"
   },
   "connectingToMainnet": {
-    "message": "Connecting to Main Ethereum Network"
+    "message": "Connecting to Main Wanliuno Network"
   },
   "connectingToRopsten": {
     "message": "Connecting to Ropsten Test Network"
@@ -579,7 +579,7 @@
     "message": "Error in ENS name registration"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS name not found on the current network. Try switching to Main Ethereum Network."
+    "message": "ENS name not found on the current network. Try switching to Main Wanliuno Network."
   },
   "enterAnAlias": {
     "message": "Enter an alias"
@@ -626,7 +626,7 @@
     "description": "Title for error stack, which is displayed for debugging purposes"
   },
   "ethereumPublicAddress": {
-    "message": "Ethereum Public Address"
+    "message": "Wanliuno Public Address"
   },
   "etherscanView": {
     "message": "View account on Etherscan"
@@ -825,7 +825,7 @@
     "message": "A token here reuses a symbol from another token you watch, this can be confusing or deceptive."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Not ETH network, set to lowercase"
+    "message": "Not WLI network, set to lowercase"
   },
   "invalidInput": {
     "message": "Invalid input."
@@ -901,7 +901,7 @@
     "message": "Lock time is too great"
   },
   "mainnet": {
-    "message": "Main Ethereum Network"
+    "message": "Main Wanliuno Network"
   },
   "memorizePhrase": {
     "message": "Memorize this phrase."
@@ -922,7 +922,7 @@
     "message": "Click it to manage your connected accounts."
   },
   "metamaskDescription": {
-    "message": "Connecting you to Ethereum and the Decentralized Web."
+    "message": "Connecting you to Wanliuno and the Decentralized Web."
   },
   "metamaskVersion": {
     "message": "MetaMask Version"
@@ -950,7 +950,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Can not send negative amounts of ETH."
+    "message": "Can not send negative amounts of WLI."
   },
   "networkName": {
     "message": "Network Name"
@@ -1008,7 +1008,7 @@
     "message": "Only connect with sites you trust."
   },
   "onlyAddTrustedNetworks": {
-    "message": "A malicious Ethereum network provider can lie about the state of the blockchain and record your network activity. Only add custom networks you trust."
+    "message": "A malicious Wanliuno network provider can lie about the state of the blockchain and record your network activity. Only add custom networks you trust."
   },
   "optionalChainId": {
     "message": "ChainID (optional)"
@@ -1107,7 +1107,7 @@
     "message": "Primary Currency"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Select native to prioritize displaying values in the native currency of the chain (e.g. ETH). Select Fiat to prioritize displaying values in your selected fiat currency."
+    "message": "Select native to prioritize displaying values in the native currency of the chain (e.g. WLI). Select Fiat to prioritize displaying values in your selected fiat currency."
   },
   "privacyMsg": {
     "message": "Privacy Policy"
@@ -1315,8 +1315,8 @@
   "sendAmount": {
     "message": "Send Amount"
   },
-  "sendETH": {
-    "message": "Send ETH"
+  "sendWLI": {
+    "message": "Send WLI"
   },
   "sendTokens": {
     "message": "Send Tokens"
@@ -1462,7 +1462,7 @@
     "message": "3. Start using web3 sites and more!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Use your hardware account like you would with any Ethereum account. Connect to web3 sites, send ETH, buy and store ERC20 tokens and non-fungible tokens like CryptoKitties."
+    "message": "Use your hardware account like you would with any Wanliuno account. Connect to web3 sites, send WLI, buy and store ERC20 tokens and non-fungible tokens like CryptoKitties."
   },
   "storePhrase": {
     "message": "Store this phrase in a password manager like 1Password."
@@ -1595,7 +1595,7 @@
     "message": "Transaction Time"
   },
   "showTransactionTimeDescription": {
-    "message": "Select this to display pending transaction time estimates in the activity tab while on the Main Ethereum Network. Note: estimates are approximations based on network conditions."
+    "message": "Select this to display pending transaction time estimates in the activity tab while on the Main Wanliuno Network. Note: estimates are approximations based on network conditions."
   },
   "transfer": {
     "message": "Transfer"
@@ -1669,7 +1669,7 @@
     "message": "Use Phishing Detection"
   },
   "usePhishingDetectionDescription": {
-    "message": "Display a warning for phishing domains targeting Ethereum users"
+    "message": "Display a warning for phishing domains targeting Wanliuno users"
   },
   "userName": {
     "message": "Username"

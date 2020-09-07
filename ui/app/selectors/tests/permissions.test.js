@@ -20,7 +20,7 @@ describe('selectors', function () {
             },
             'https://remix.ethereum.org': {
               'icon': 'https://remix.ethereum.org/icon.png',
-              'name': 'Remix - Ethereum IDE',
+              'name': 'Remix - Wanliuno IDE',
               'host': 'remix.ethereum.org',
             },
           },
@@ -100,7 +100,7 @@ describe('selectors', function () {
             },
             'https://remix.ethereum.org': {
               'icon': 'https://remix.ethereum.org/icon.png',
-              'name': 'Remix - Ethereum IDE',
+              'name': 'Remix - Wanliuno IDE',
               'host': 'remix.ethereum.com',
             },
           },
@@ -156,7 +156,7 @@ describe('selectors', function () {
       const extensionId = undefined
       assert.deepEqual(getConnectedDomainsForSelectedAddress(mockState), [{
         extensionId,
-        name: 'Remix - Ethereum IDE',
+        name: 'Remix - Wanliuno IDE',
         icon: 'https://remix.ethereum.org/icon.png',
         origin: 'https://remix.ethereum.org',
         host: 'remix.ethereum.com',
@@ -167,7 +167,7 @@ describe('selectors', function () {
   describe('getConnectedAccountsForActiveTab', function () {
     const mockState = {
       activeTab: {
-        'title': 'Eth Sign Tests',
+        'title': 'Wli Sign Tests',
         'origin': 'https://remix.ethereum.org',
         'protocol': 'https:',
         'url': 'https://remix.ethereum.org/',
@@ -329,7 +329,7 @@ describe('selectors', function () {
   describe('getPermissionsForActiveTab', function () {
     const mockState = {
       activeTab: {
-        'title': 'Eth Sign Tests',
+        'title': 'Wli Sign Tests',
         'origin': 'https://remix.ethereum.org',
         'protocol': 'https:',
         'url': 'https://remix.ethereum.org/',

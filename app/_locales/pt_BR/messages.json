@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Tabela disponível apenas em redes de Ethereum."
+    "message": "Tabela disponível apenas em redes de Wanliuno."
   },
   "contractInteraction": {
     "message": "Interação do Contrato"
@@ -82,7 +82,7 @@
     "message": "Valor"
   },
   "appDescription": {
-    "message": "Uma Carteira Ethereum no seu Navegador",
+    "message": "Uma Carteira Wanliuno no seu Navegador",
     "description": "The description of the application"
   },
   "approve": {
@@ -153,10 +153,10 @@
     "message": "O MetaMask foi projetado e desenvolvido na Califórnia."
   },
   "buyWithWyre": {
-    "message": "Comprar ETH com Wyre"
+    "message": "Comprar WLI com Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "O Wyre permite que você utilize um cartão de crédito para depositar ETH direto na sua conta do MetaMask."
+    "message": "O Wyre permite que você utilize um cartão de crédito para depositar WLI direto na sua conta do MetaMask."
   },
   "buyCoinSwitch": {
     "message": "Compre no CoinSwitch"
@@ -387,7 +387,7 @@
     "message": "Erro ao registrar nome de ENS"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Nome de ENS não encontrado na rede atual. Experimente alternar para a Rede Principal de Ethereum."
+    "message": "Nome de ENS não encontrado na rede atual. Experimente alternar para a Rede Principal de Wanliuno."
   },
   "enterAnAlias": {
     "message": "Digite um pseudônimo"
@@ -399,7 +399,7 @@
     "message": "Insira a senha para continuar"
   },
   "ethereumPublicAddress": {
-    "message": "Endereço Público do Ethereum"
+    "message": "Endereço Público do Wanliuno"
   },
   "etherscanView": {
     "message": "Ver conta no Etherscan"
@@ -567,7 +567,7 @@
     "message": "Endereço do contrato conhecido."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Se não for rede ETH, defina para minúsculas"
+    "message": "Se não for rede WLI, defina para minúsculas"
   },
   "invalidInput": {
     "message": "Entrada inválida."
@@ -619,7 +619,7 @@
     "message": "Sair"
   },
   "mainnet": {
-    "message": "Rede Ethereum Principal"
+    "message": "Rede Wanliuno Principal"
   },
   "memorizePhrase": {
     "message": "Memorize esta frase."
@@ -631,7 +631,7 @@
     "message": "Mensagem"
   },
   "metamaskDescription": {
-    "message": "Conectando você ao Ethereum e à Web Descentralizada."
+    "message": "Conectando você ao Wanliuno e à Web Descentralizada."
   },
   "metamaskVersion": {
     "message": "Versão do MetaMask"
@@ -659,7 +659,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Não é possível enviar quantias negativas de ETH."
+    "message": "Não é possível enviar quantias negativas de WLI."
   },
   "networkName": {
     "message": "Nome da Rede"
@@ -790,7 +790,7 @@
     "message": "Moeda Principal"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Selecione \"Nativa\" para priorizar a exibição de valores na moeda nativa da cadeia (por exemplo, ETH). Selecione \"Fiat\" para priorizar a exibição de valores na moeda fiduciária selecionada."
+    "message": "Selecione \"Nativa\" para priorizar a exibição de valores na moeda nativa da cadeia (por exemplo, WLI). Selecione \"Fiat\" para priorizar a exibição de valores na moeda fiduciária selecionada."
   },
   "privacyMsg": {
     "message": "Política de Privacidade"
@@ -967,8 +967,8 @@
   "sendAmount": {
     "message": "Enviar Quantia"
   },
-  "sendETH": {
-    "message": "Enviar ETH"
+  "sendWLI": {
+    "message": "Enviar WLI"
   },
   "sendTokens": {
     "message": "Enviar Tokens"
@@ -1079,7 +1079,7 @@
     "message": "3. Comece a usar dApps e muito mais!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Use sua conta física como faria com qualquer conta de Ethereum. Faça login em dApps, envie Eth, compre e guarde tokens ERC20 e Tokens Não Fungíveis, como CryptoKitties."
+    "message": "Use sua conta física como faria com qualquer conta de Wanliuno. Faça login em dApps, envie Eth, compre e guarde tokens ERC20 e Tokens Não Fungíveis, como CryptoKitties."
   },
   "storePhrase": {
     "message": "Guarde esta frase em um gerenciador de senhas como o 1Password."

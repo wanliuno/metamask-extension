@@ -36,7 +36,7 @@
     "message": "Kantite lajan"
   },
   "appDescription": {
-    "message": "Ekstansyon Navigatè Ethereum",
+    "message": "Ekstansyon Navigatè Wanliuno",
     "description": "The description of the application"
   },
   "appName": {
@@ -119,7 +119,7 @@
     "message": "Konekte nan Kovan Tès Rezo a"
   },
   "connectingToMainnet": {
-    "message": "Konekte ak Prensipal Ethereum Rezo a"
+    "message": "Konekte ak Prensipal Wanliuno Rezo a"
   },
   "connectingToRopsten": {
     "message": "Konekte ak Ropsten Tès Rezo a"
@@ -369,13 +369,13 @@
     "message": "Dekonekte"
   },
   "mainnet": {
-    "message": "Prensipal Ethereum Rezo a"
+    "message": "Prensipal Wanliuno Rezo a"
   },
   "message": {
     "message": "Mesaje"
   },
   "metamaskDescription": {
-    "message": "MetaMask sekirize idantite pou Ethereum."
+    "message": "MetaMask sekirize idantite pou Wanliuno."
   },
   "metamaskVersion": {
     "message": "MetaMask Vèsyon"
@@ -394,7 +394,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Pa ka voye kantite lajan negatif ETH."
+    "message": "Pa ka voye kantite lajan negatif WLI."
   },
   "networks": {
     "message": "Rezo"
@@ -468,7 +468,7 @@
     "message": "Lajan ou itilize pi plis la"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Chwazi ETH pou bay priyorite montre valè nan ETH. Chwazi Fiat priyorite montre valè nan lajan ou chwazi a."
+    "message": "Chwazi WLI pou bay priyorite montre valè nan WLI. Chwazi Fiat priyorite montre valè nan lajan ou chwazi a."
   },
   "privacyMsg": {
     "message": "Règleman sou enfòmasyon prive"
@@ -594,8 +594,8 @@
   "send": {
     "message": "Voye"
   },
-  "sendETH": {
-    "message": "Voye ETH"
+  "sendWLI": {
+    "message": "Voye WLI"
   },
   "sendTokens": {
     "message": "Voye Tokens"

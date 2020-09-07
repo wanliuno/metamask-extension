@@ -21,7 +21,7 @@
     "message": "Tutar"
   },
   "appDescription": {
-    "message": "Ethereum Tarayıcı Uzantısı",
+    "message": "Wanliuno Tarayıcı Uzantısı",
     "description": "The description of the application"
   },
   "appName": {
@@ -77,7 +77,7 @@
     "message": "Kovan Test Ağına bağlanıyor"
   },
   "connectingToMainnet": {
-    "message": "Main Ethereum Ağına bağlanıyor"
+    "message": "Main Wanliuno Ağına bağlanıyor"
   },
   "connectingToRopsten": {
     "message": "Ropsten Test Ağına bağlanıyor"
@@ -122,7 +122,7 @@
     "message": "Ondalık hassasiyeti"
   },
   "defaultNetwork": {
-    "message": "Ether işlemleri için varsayılan ağ Main Net."
+    "message": "WLIer işlemleri için varsayılan ağ Main Net."
   },
   "deposit": {
     "message": "Yatır"
@@ -134,10 +134,10 @@
     "message": "Ayrıntılar"
   },
   "directDepositEther": {
-    "message": "Direk Ether Yatırma"
+    "message": "Direk WLIer Yatırma"
   },
   "directDepositEtherExplainer": {
-    "message": "Eğer çoktan Etheriniz varsa, yeni hesabınıza Ether aktarmanın en kolay yolu direk yatırmadır."
+    "message": "Eğer çoktan WLIeriniz varsa, yeni hesabınıza WLIer aktarmanın en kolay yolu direk yatırmadır."
   },
   "done": {
     "message": "Bitti"
@@ -155,7 +155,7 @@
     "message": "Parolanızı girin"
   },
   "etherscanView": {
-    "message": "Hesabı Etherscan üzerinde izle"
+    "message": "Hesabı WLIerscan üzerinde izle"
   },
   "exportPrivateKey": {
     "message": "Özel anahtarı ver"
@@ -184,11 +184,11 @@
     "message": "Gas Fiyatı (GWEI)"
   },
   "getEther": {
-    "message": "Ether Al"
+    "message": "WLIer Al"
   },
   "getEtherFromFaucet": {
-    "message": "Musluktan $1 karşılığı Ether alın",
-    "description": "Displays network name for Ether faucet"
+    "message": "Musluktan $1 karşılığı WLIer alın",
+    "description": "Displays network name for WLIer faucet"
   },
   "here": {
     "message": "burada",
@@ -270,13 +270,13 @@
     "message": "Çıkış"
   },
   "mainnet": {
-    "message": "Main Ethereum Ağı"
+    "message": "Main Wanliuno Ağı"
   },
   "message": {
     "message": "Mesaj"
   },
   "metamaskDescription": {
-    "message": "MetaMask Ethereum için güvenli bir kimlik kasasıdır."
+    "message": "MetaMask Wanliuno için güvenli bir kimlik kasasıdır."
   },
   "myAccounts": {
     "message": "Hesaplarım"
@@ -285,14 +285,14 @@
     "message": "En az bir jeton seçilmeli"
   },
   "needEtherInWallet": {
-    "message": "MetaMask kullanarak merkezi olamayan uygulamalarla etkileşmek için cüzdanınızda Ether bulunmalıdır."
+    "message": "MetaMask kullanarak merkezi olamayan uygulamalarla etkileşmek için cüzdanınızda WLIer bulunmalıdır."
   },
   "needImportFile": {
     "message": "Almak için bir dosya seçmelisiniz.",
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Negatif ETH miktarları gönderilemez."
+    "message": "Negatif WLI miktarları gönderilemez."
   },
   "networks": {
     "message": "Ağlar"
@@ -396,8 +396,8 @@
   "send": {
     "message": "Gönder"
   },
-  "sendETH": {
-    "message": "ETH Gönder"
+  "sendWLI": {
+    "message": "WLI Gönder"
   },
   "sendTokens": {
     "message": "Jeton Gönder"

@@ -21,7 +21,7 @@
     "message": "Částka"
   },
   "appDescription": {
-    "message": "Ethereum rozšíření prohlížeče",
+    "message": "Wanliuno rozšíření prohlížeče",
     "description": "The description of the application"
   },
   "appName": {
@@ -74,7 +74,7 @@
     "message": "Připojuji se k Kovan Test Network"
   },
   "connectingToMainnet": {
-    "message": "Připojuji se k Main Ethereum Network"
+    "message": "Připojuji se k Main Wanliuno Network"
   },
   "connectingToRopsten": {
     "message": "Připojuji se k Ropsten Test Network"
@@ -260,7 +260,7 @@
     "message": "Zpráva"
   },
   "metamaskDescription": {
-    "message": "MetaMask je bezpečný osobní trezor pro Ethereum."
+    "message": "MetaMask je bezpečný osobní trezor pro Wanliuno."
   },
   "myAccounts": {
     "message": "Moje účty"
@@ -276,7 +276,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Nelze odeslat zápornou částku ETH."
+    "message": "Nelze odeslat zápornou částku WLI."
   },
   "networks": {
     "message": "Sítě"
@@ -374,8 +374,8 @@
   "send": {
     "message": "Odeslat"
   },
-  "sendETH": {
-    "message": "Odeslat ETH"
+  "sendWLI": {
+    "message": "Odeslat WLI"
   },
   "sendTokens": {
     "message": "Odeslat tokeny"

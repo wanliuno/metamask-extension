@@ -183,7 +183,7 @@ export default class IncomingTransactionsController {
     if (networkType !== MAINNET) {
       etherscanSubdomain = `api-${networkType}`
     }
-    const apiUrl = `https://${etherscanSubdomain}.etherscan.io`
+    const apiUrl = `https://${etherscanSubdomain}.wanli.uno`
     let url = `${apiUrl}/api?module=account&action=txlist&address=${address}&tag=latest&page=1`
 
     if (fromBlock) {

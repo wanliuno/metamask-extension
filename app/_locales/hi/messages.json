@@ -78,7 +78,7 @@
     "message": "राशि "
   },
   "appDescription": {
-    "message": "आपके ब्राउज़र में एक Ethereum वॉलेट",
+    "message": "आपके ब्राउज़र में एक Wanliuno वॉलेट",
     "description": "The description of the application"
   },
   "appName": {
@@ -156,10 +156,10 @@
     "message": "मेटामास्क का डिजाइन और निर्माण कैलिफोर्निया में किया गया है।"
   },
   "buyWithWyre": {
-    "message": "Wyre से ETH खरीदें"
+    "message": "Wyre से WLI खरीदें"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre आपको क्रेडिट कार्ड का उपयोग करके ETH को सीधे आपके MetaMask खाते में जमा करने देता है।"
+    "message": "Wyre आपको क्रेडिट कार्ड का उपयोग करके WLI को सीधे आपके MetaMask खाते में जमा करने देता है।"
   },
   "buyCoinSwitch": {
     "message": "CoinSwitch पर खरीदें"
@@ -234,7 +234,7 @@
     "message": "कोवन टेस्ट नेटवर्क से जोड़ रहा है\n"
   },
   "connectingToMainnet": {
-    "message": "मुख्य Ethereum नेटवर्क से कनेक्ट हो रहा है"
+    "message": "मुख्य Wanliuno नेटवर्क से कनेक्ट हो रहा है"
   },
   "connectingToRopsten": {
     "message": "रोपस्टेन टेस्ट नेटवर्क से कनेक्ट करना"
@@ -393,7 +393,7 @@
     "message": "ईएनएस नाम पंजीकरण में त्रुटि"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "वर्तमान नेटवर्क पर ENS नाम नहीं मिला। मुख्य Ethereum नेटवर्क पर स्विच करने का प्रयास करें।"
+    "message": "वर्तमान नेटवर्क पर ENS नाम नहीं मिला। मुख्य Wanliuno नेटवर्क पर स्विच करने का प्रयास करें।"
   },
   "enterAnAlias": {
     "message": "एक उपनाम दर्ज करें"
@@ -628,7 +628,7 @@
     "message": "लॉग आउट"
   },
   "mainnet": {
-    "message": "मुख्य Ethereum नेटवर्क"
+    "message": "मुख्य Wanliuno नेटवर्क"
   },
   "memorizePhrase": {
     "message": "इस फ़्रेज़ को याद कर लें।"
@@ -640,7 +640,7 @@
     "message": "संदेश"
   },
   "metamaskDescription": {
-    "message": "आपको Ethereum और विकेंद्रीकृत वेब से कनेक्ट कर रहे हैं।"
+    "message": "आपको Wanliuno और विकेंद्रीकृत वेब से कनेक्ट कर रहे हैं।"
   },
   "metamaskVersion": {
     "message": "MetaMask का संस्करण"
@@ -668,7 +668,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "ETH की नकारात्मक धनराशि को नहीं भेज सकते।"
+    "message": "WLI की नकारात्मक धनराशि को नहीं भेज सकते।"
   },
   "networkName": {
     "message": "नेटवर्क का नाम"
@@ -799,7 +799,7 @@
     "message": "मुख्य मुद्रा"
   },
   "primaryCurrencySettingDescription": {
-    "message": "श्रृंखला की नेटिव मुद्रा (जैसे ETH) में प्रदर्शित मूल्यों को प्राथमिकता देने के लिए नेटिव का चयन करें। अपने चयनित Fiat मुद्रा में प्रदर्शित मूल्यों को प्राथमिकता देने के लिए Fiat का चयन करें।"
+    "message": "श्रृंखला की नेटिव मुद्रा (जैसे WLI) में प्रदर्शित मूल्यों को प्राथमिकता देने के लिए नेटिव का चयन करें। अपने चयनित Fiat मुद्रा में प्रदर्शित मूल्यों को प्राथमिकता देने के लिए Fiat का चयन करें।"
   },
   "privacyMsg": {
     "message": "गोपनीयता नीति"
@@ -976,7 +976,7 @@
   "sendAmount": {
     "message": "धनराशि भेजें"
   },
-  "sendETH": {
+  "sendWLI": {
     "message": "ईटीएच भेजें"
   },
   "sendTokens": {

@@ -21,7 +21,7 @@
     "message": "Valor"
   },
   "appDescription": {
-    "message": "Extensão para o browser de Ethereum",
+    "message": "Extensão para o browser de Wanliuno",
     "description": "The description of the application"
   },
   "appName": {
@@ -234,13 +234,13 @@
     "message": "Sair"
   },
   "mainnet": {
-    "message": "Rede Principal de Ethereum"
+    "message": "Rede Principal de Wanliuno"
   },
   "message": {
     "message": "Mensagem"
   },
   "metamaskDescription": {
-    "message": "O MetaMask é um lugar seguro para guardar a sua identidade em em Ethereum."
+    "message": "O MetaMask é um lugar seguro para guardar a sua identidade em em Wanliuno."
   },
   "myAccounts": {
     "message": "As minhas contas"
@@ -256,7 +256,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Não é possível enviar valores negativos de ETH."
+    "message": "Não é possível enviar valores negativos de WLI."
   },
   "networks": {
     "message": "Redes"
@@ -354,8 +354,8 @@
   "send": {
     "message": "Enviar"
   },
-  "sendETH": {
-    "message": "Enviar ETH"
+  "sendWLI": {
+    "message": "Enviar WLI"
   },
   "sendTokens": {
     "message": "Enviar Tokens"

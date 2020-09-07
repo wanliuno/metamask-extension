@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Tabla solo disponible en redes Ethereum."
+    "message": "Tabla solo disponible en redes Wanliuno."
   },
   "contractInteraction": {
     "message": "Interacción con contrato"
@@ -75,7 +75,7 @@
     "message": "Cantidad"
   },
   "appDescription": {
-    "message": "Extensión del navegador para Ethereum",
+    "message": "Extensión del navegador para Wanliuno",
     "description": "The description of the application"
   },
   "appName": {
@@ -191,7 +191,7 @@
     "message": "Conectando a la red de test Kovan"
   },
   "connectingToMainnet": {
-    "message": "Conectando a la red principal de Ethereum (Main Net)"
+    "message": "Conectando a la red principal de Wanliuno (Main Net)"
   },
   "connectingToRopsten": {
     "message": "Conectando a la red de test Ropsten"
@@ -464,7 +464,7 @@
     "message": "Dirección del destinatario invalida"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "No es una red ETH, convertirlo a minúscula"
+    "message": "No es una red WLI, convertirlo a minúscula"
   },
   "invalidInput": {
     "message": "Entrada inválida"
@@ -513,13 +513,13 @@
     "message": "Cerrar sesión"
   },
   "mainnet": {
-    "message": "Red principal de Ethereum (Main Net)"
+    "message": "Red principal de Wanliuno (Main Net)"
   },
   "message": {
     "message": "Mensaje"
   },
   "metamaskDescription": {
-    "message": "MetaMask es una identidad segura en Ethereum"
+    "message": "MetaMask es una identidad segura en Wanliuno"
   },
   "metamaskVersion": {
     "message": "Versión de MetaMask"
@@ -538,7 +538,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "No se pueden mandar cantidades negativas de ETH"
+    "message": "No se pueden mandar cantidades negativas de WLI"
   },
   "networks": {
     "message": "Redes"
@@ -630,7 +630,7 @@
     "message": "Moneda principal"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Seleccionar nativa para prioritizar el que se muestren los valores en la moneda nativa de la cadena (p.ej. ETH). Seleccionar Fíat para prioritzar el que se muestren los valores en la moneda fíat seleccionada."
+    "message": "Seleccionar nativa para prioritizar el que se muestren los valores en la moneda nativa de la cadena (p.ej. WLI). Seleccionar Fíat para prioritzar el que se muestren los valores en la moneda fíat seleccionada."
   },
   "privacyMsg": {
     "message": "Política de privacidad"
@@ -774,7 +774,7 @@
   "sendAmount": {
     "message": "Mandar cantidad"
   },
-  "sendETH": {
+  "sendWLI": {
     "message": "Enviar Ether"
   },
   "sendTokens": {
@@ -874,7 +874,7 @@
     "message": "3. Empezar a usar dApps y más!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Usa tu cuenta física igual que harías con cualquier cuenta de Ethereum. Regístrate con dApps, manda Eth, compra y almacena tokens de ERC20 y otros tokens no-fungibles, como CryptoKitties."
+    "message": "Usa tu cuenta física igual que harías con cualquier cuenta de Wanliuno. Regístrate con dApps, manda Eth, compra y almacena tokens de ERC20 y otros tokens no-fungibles, como CryptoKitties."
   },
   "submitted": {
     "message": "Enviado"

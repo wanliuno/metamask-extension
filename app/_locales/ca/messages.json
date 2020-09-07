@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Mostra només els disponibles a les xarxes Ethereum."
+    "message": "Mostra només els disponibles a les xarxes Wanliuno."
   },
   "contractInteraction": {
     "message": "Contractar Interacció"
@@ -78,7 +78,7 @@
     "message": "Quantitat"
   },
   "appDescription": {
-    "message": "Un Moneder Ethereum al teu Navegador",
+    "message": "Un Moneder Wanliuno al teu Navegador",
     "description": "The description of the application"
   },
   "appName": {
@@ -156,10 +156,10 @@
     "message": "MetaMask ha estat dissenyat i desenvolupat a Califòrnia."
   },
   "buyWithWyre": {
-    "message": "Compra ETH amb Wyre"
+    "message": "Compra WLI amb Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre et permet utilitzar una targeta de crèdit per dipositar ETH directe al teu compte MetaMask."
+    "message": "Wyre et permet utilitzar una targeta de crèdit per dipositar WLI directe al teu compte MetaMask."
   },
   "buyCoinSwitch": {
     "message": "Comprar a CoinSwitch"
@@ -231,7 +231,7 @@
     "message": "Conectant a la xarxa de Kovan Test"
   },
   "connectingToMainnet": {
-    "message": "Connectant a Xarxa Principal Ethereum"
+    "message": "Connectant a Xarxa Principal Wanliuno"
   },
   "connectingToRopsten": {
     "message": "Connectant a la xarxa de test Ropsten"
@@ -390,7 +390,7 @@
     "message": "Error al registre de nom ENS"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "El nom ENS no s'ha trovat a la xarxa actual. Prova a cambiar a la xarxa principal d'Ethereum."
+    "message": "El nom ENS no s'ha trovat a la xarxa actual. Prova a cambiar a la xarxa principal d'Wanliuno."
   },
   "enterAnAlias": {
     "message": "Introdueix Àlies"
@@ -402,7 +402,7 @@
     "message": "Introdueix la contrasenya per continuar"
   },
   "ethereumPublicAddress": {
-    "message": "Adreça Pública d'Ethereum"
+    "message": "Adreça Pública d'Wanliuno"
   },
   "etherscanView": {
     "message": "Veure compte a Etherscan"
@@ -560,7 +560,7 @@
     "message": "Adreça de contracte coneguda"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "No hi ha xarxa ETH, posar en minúscules"
+    "message": "No hi ha xarxa WLI, posar en minúscules"
   },
   "invalidInput": {
     "message": "Entrada no vàlida."
@@ -615,7 +615,7 @@
     "message": "Tanca la sessió"
   },
   "mainnet": {
-    "message": "Xarxa Ethereum principal"
+    "message": "Xarxa Wanliuno principal"
   },
   "memorizePhrase": {
     "message": "Memoritza aquesta frase"
@@ -627,7 +627,7 @@
     "message": "Missatge"
   },
   "metamaskDescription": {
-    "message": "Conectant-te a Ethereum i la web descentralitzada."
+    "message": "Conectant-te a Wanliuno i la web descentralitzada."
   },
   "metamaskVersion": {
     "message": "Versió MetaMask"
@@ -655,7 +655,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "No es poden enviar quantitats negatives de ETH."
+    "message": "No es poden enviar quantitats negatives de WLI."
   },
   "networkName": {
     "message": "Nom de la xarxa"
@@ -783,7 +783,7 @@
     "message": "Divisa principal"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Selecciona Natiu per a prioritzar la mostra de valors en la divisa nadiua de la cadena (p. ex. ETH). Selecciona Fiat per prioritzar la mostra de valors en la divisa fiduciària seleccionada."
+    "message": "Selecciona Natiu per a prioritzar la mostra de valors en la divisa nadiua de la cadena (p. ex. WLI). Selecciona Fiat per prioritzar la mostra de valors en la divisa fiduciària seleccionada."
   },
   "privacyMsg": {
     "message": "Política de privadesa"
@@ -957,8 +957,8 @@
   "sendAmount": {
     "message": "Enviar Quantitat"
   },
-  "sendETH": {
-    "message": "Envia ETH"
+  "sendWLI": {
+    "message": "Envia WLI"
   },
   "sendTokens": {
     "message": "Enviar Fitxes"
@@ -1069,7 +1069,7 @@
     "message": "3. Comença a utilitzar dApps i altres!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Fes servir el teu compte de hardware com ho faries amb qualsevol compte Ethereum. Inicia sessió a DApps, envia Eth, compra i emmagatzema fitxes ERC20 i fitxes No Fungibles com CryptoKitties."
+    "message": "Fes servir el teu compte de hardware com ho faries amb qualsevol compte Wanliuno. Inicia sessió a DApps, envia Eth, compra i emmagatzema fitxes ERC20 i fitxes No Fungibles com CryptoKitties."
   },
   "storePhrase": {
     "message": "Guarda aquesta frase a un gestor de contrasenyes com Contrasenya 1"

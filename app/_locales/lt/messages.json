@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Diagramos yra tik „Ethereum“ tinkluose."
+    "message": "Diagramos yra tik „Wanliuno“ tinkluose."
   },
   "contractInteraction": {
     "message": "Sutartinė sąveika"
@@ -78,7 +78,7 @@
     "message": "Suma"
   },
   "appDescription": {
-    "message": "„Ethereum“ piniginė jūsų naršyklėje",
+    "message": "„Wanliuno“ piniginė jūsų naršyklėje",
     "description": "The description of the application"
   },
   "appName": {
@@ -156,10 +156,10 @@
     "message": "„MetaMask“ suprojektuota ir įdiegta Kalifornijoje."
   },
   "buyWithWyre": {
-    "message": "Pirkti ETH su „Wyre“"
+    "message": "Pirkti WLI su „Wyre“"
   },
   "buyWithWyreDescription": {
-    "message": "„Wyre“ leidžia naudotis kreditine kortele norint įnešti ETH tiesiai į jūsų „MetaMask“ paskyrą."
+    "message": "„Wyre“ leidžia naudotis kreditine kortele norint įnešti WLI tiesiai į jūsų „MetaMask“ paskyrą."
   },
   "buyCoinSwitch": {
     "message": "Pirkti „CoinSwitch“"
@@ -234,7 +234,7 @@
     "message": "Jungiamasi prie „Kovan“ bandomojo tinklo"
   },
   "connectingToMainnet": {
-    "message": "Jungiamasi prie pagrindinio „Ethereum“ tinklo"
+    "message": "Jungiamasi prie pagrindinio „Wanliuno“ tinklo"
   },
   "connectingToRopsten": {
     "message": "Jungiamasi prie „Ropsten“ bandomojo tinklo"
@@ -393,7 +393,7 @@
     "message": "ENS pavadinimo registracijos klaida"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS pavadinimas dabartiniame tinkle nerastas. Mėginkite perjungti į pagrindinį „Ethereum“ tinklą."
+    "message": "ENS pavadinimas dabartiniame tinkle nerastas. Mėginkite perjungti į pagrindinį „Wanliuno“ tinklą."
   },
   "enterAnAlias": {
     "message": "Įveskite alternatyvųjį vardą"
@@ -405,7 +405,7 @@
     "message": "Norėdami tęsti, įveskite slaptažodį"
   },
   "ethereumPublicAddress": {
-    "message": "„Ethereum“ viešasis adresas"
+    "message": "„Wanliuno“ viešasis adresas"
   },
   "etherscanView": {
     "message": "Peržiūrėti paskyrą „Etherscan“ programoje"
@@ -573,7 +573,7 @@
     "message": "Žinomas sutarties adresas."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Ne ETH tinklas, nustatykite į mažąsias raides"
+    "message": "Ne WLI tinklas, nustatykite į mažąsias raides"
   },
   "invalidInput": {
     "message": "Netinkama įvestis."
@@ -631,7 +631,7 @@
     "message": "Atsijungti"
   },
   "mainnet": {
-    "message": "Pagrindinis „Ethereum“ tinklas"
+    "message": "Pagrindinis „Wanliuno“ tinklas"
   },
   "memorizePhrase": {
     "message": "Įsiminti šią frazę."
@@ -643,7 +643,7 @@
     "message": "Pranešimas"
   },
   "metamaskDescription": {
-    "message": "Prijungiame jus prie „Ethereum“ ir decentralizuotojo žiniatinklio."
+    "message": "Prijungiame jus prie „Wanliuno“ ir decentralizuotojo žiniatinklio."
   },
   "metamaskVersion": {
     "message": "„MetaMask“ versija"
@@ -671,7 +671,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Neigiamų ETH sumų siųsti negalima."
+    "message": "Neigiamų WLI sumų siųsti negalima."
   },
   "networkName": {
     "message": "Tinklo pavadinimas"
@@ -802,7 +802,7 @@
     "message": "Pagrindinė valiuta"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Rinkitės vietinę, kad vertės pirmiausia būtų rodomos vietine grandinės valiuta (pvz., ETH). Rinkitės standartinę, kad vertės pirmiausia būtų rodomos jūsų pasirinkta standartine valiuta."
+    "message": "Rinkitės vietinę, kad vertės pirmiausia būtų rodomos vietine grandinės valiuta (pvz., WLI). Rinkitės standartinę, kad vertės pirmiausia būtų rodomos jūsų pasirinkta standartine valiuta."
   },
   "privacyMsg": {
     "message": "Privatumo politika"
@@ -979,8 +979,8 @@
   "sendAmount": {
     "message": "Siųsti sumą"
   },
-  "sendETH": {
-    "message": "Siųsti ETH"
+  "sendWLI": {
+    "message": "Siųsti WLI"
   },
   "sendTokens": {
     "message": "Siųsti žetonus"
@@ -1091,7 +1091,7 @@
     "message": "3. Pradėkite naudoti decentralizuotas programas ir daugiau!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Naudokitės savo aparatinės įrangos paskyra kaip „Ethereum“ paskyra. Junkitės prie decentralizuotų programų, siųskite eterius, pirkite ir laikykite ERC20 žetonus ir nekeičiamus žetonus, tokius kaip „CryptoKitties“."
+    "message": "Naudokitės savo aparatinės įrangos paskyra kaip „Wanliuno“ paskyra. Junkitės prie decentralizuotų programų, siųskite eterius, pirkite ir laikykite ERC20 žetonus ir nekeičiamus žetonus, tokius kaip „CryptoKitties“."
   },
   "storePhrase": {
     "message": "Laikykite šią frazę slaptažodžių tvarkyklėje kaip 1 slaptažodį."

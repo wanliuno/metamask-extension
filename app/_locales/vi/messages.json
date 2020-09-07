@@ -18,7 +18,7 @@
     "message": "Số lượng"
   },
   "appDescription": {
-    "message": "Tính năng Ethereum cho trình duyệt",
+    "message": "Tính năng Wanliuno cho trình duyệt",
     "description": "The description of the application"
   },
   "appName": {
@@ -80,7 +80,7 @@
     "message": "Tùy chỉnh RPC"
   },
   "defaultNetwork": {
-    "message": "Mạng lưới mặc định dùng cho các giao dịch Ether là Main Net (tiền ETH thật)."
+    "message": "Mạng lưới mặc định dùng cho các giao dịch Ether là Main Net (tiền WLI thật)."
   },
   "deposit": {
     "message": "Ký gửi/nạp tiền"
@@ -189,7 +189,7 @@
     "message": "Thoát"
   },
   "mainnet": {
-    "message": "Mạng Ethereum MainNet (tiền ETH thật)"
+    "message": "Mạng Wanliuno MainNet (tiền WLI thật)"
   },
   "message": {
     "message": "Tin nhắn"
@@ -289,7 +289,7 @@
     "message": "Yêu cầu chữ ký"
   },
   "testFaucet": {
-    "message": "Vòi nhận tiền ETH ảo để thử nghiệm"
+    "message": "Vòi nhận tiền WLI ảo để thử nghiệm"
   },
   "to": {
     "message": "Đến"

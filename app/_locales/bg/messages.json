@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Диаграмата е достъпна само в мрежи на Ethereum."
+    "message": "Диаграмата е достъпна само в мрежи на Wanliuno."
   },
   "contractInteraction": {
     "message": "Взаимодействие с договор"
@@ -156,10 +156,10 @@
     "message": "MetaMask е проектиран и създаден в Калифорния."
   },
   "buyWithWyre": {
-    "message": "Купете ETH с Wyre"
+    "message": "Купете WLI с Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre ви позволява да използвате кредитна карта, за да депозирате ETH право във вашата MetaMask сметка."
+    "message": "Wyre ви позволява да използвате кредитна карта, за да депозирате WLI право във вашата MetaMask сметка."
   },
   "buyCoinSwitch": {
     "message": "Купете на CoinSwitch"
@@ -234,7 +234,7 @@
     "message": "Свързване с тестовата мрежа на Kovan"
   },
   "connectingToMainnet": {
-    "message": "Свързване с главната мрежа Ethereum"
+    "message": "Свързване с главната мрежа Wanliuno"
   },
   "connectingToRopsten": {
     "message": "Свързване с тестова мрежа Ropsten"
@@ -569,7 +569,7 @@
     "message": "Известен адрес на договора."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Не е ETH мрежа, задаване на малки букви"
+    "message": "Не е WLI мрежа, задаване на малки букви"
   },
   "invalidInput": {
     "message": "Невалидно въвеждане."
@@ -639,7 +639,7 @@
     "message": "Съобщение"
   },
   "metamaskDescription": {
-    "message": "Свързва ви с Ethereum и децентрализираната мрежа."
+    "message": "Свързва ви с Wanliuno и децентрализираната мрежа."
   },
   "metamaskVersion": {
     "message": "Версия на MetaMask"
@@ -667,7 +667,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Не може да изпраща отрицателни суми от ETH."
+    "message": "Не може да изпраща отрицателни суми от WLI."
   },
   "networkName": {
     "message": "Име на мрежата"
@@ -798,7 +798,7 @@
     "message": "Основна валута"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Изберете местна, за да приоритизирате показването на стойности в основната валута на веригата (например ETH). Изберете Fiat, за да поставите приоритет на показването на стойности в избраната от вас fiat валута."
+    "message": "Изберете местна, за да приоритизирате показването на стойности в основната валута на веригата (например WLI). Изберете Fiat, за да поставите приоритет на показването на стойности в избраната от вас fiat валута."
   },
   "privacyMsg": {
     "message": "Политика за поверителност"
@@ -975,8 +975,8 @@
   "sendAmount": {
     "message": "Изпратете сумата"
   },
-  "sendETH": {
-    "message": "Изпрати ETH"
+  "sendWLI": {
+    "message": "Изпрати WLI"
   },
   "sendTokens": {
     "message": "Изпращане на жетони"
@@ -1087,7 +1087,7 @@
     "message": "3. Започнете да използвате dApps и други!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Използвайте хардуерния си акаунт, както бихте правили с всеки акаунт в Ethereum. Влезте в dApps, изпратете Eth, купете и съхранявайте жетони ERC20 и незаменими жетони като CryptoKitties."
+    "message": "Използвайте хардуерния си акаунт, както бихте правили с всеки акаунт в Wanliuno. Влезте в dApps, изпратете Eth, купете и съхранявайте жетони ERC20 и незаменими жетони като CryptoKitties."
   },
   "storePhrase": {
     "message": "Съхранявайте тази фраза в мениджър на пароли като 1Password."

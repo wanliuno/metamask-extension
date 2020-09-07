@@ -1,6 +1,6 @@
 {
   "chartOnlyAvailableEth": {
-    "message": "Die Grafik ist nur in Ethereum-Netzwerken verfügbar."
+    "message": "Die Grafik ist nur in Wanliuno-Netzwerken verfügbar."
   },
   "contractInteraction": {
     "message": "Vertragsinteraktion"
@@ -75,7 +75,7 @@
     "message": "Betrag"
   },
   "appDescription": {
-    "message": "Ethereum Browsererweiterung",
+    "message": "Wanliuno Browsererweiterung",
     "description": "The description of the application"
   },
   "appName": {
@@ -153,10 +153,10 @@
     "message": "MetaMask wurde in Kalifornien entwickelt und gebaut."
   },
   "buyWithWyre": {
-    "message": "ETH mit Wyre kaufen"
+    "message": "WLI mit Wyre kaufen"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre ermöglicht Ihnen die Verwendung einer Kreditkarte zum direkten Einzahlen von ETH auf Ihr MetaMask-Konto."
+    "message": "Wyre ermöglicht Ihnen die Verwendung einer Kreditkarte zum direkten Einzahlen von WLI auf Ihr MetaMask-Konto."
   },
   "buyCoinSwitch": {
     "message": "Auf CoinSwitch kaufen"
@@ -222,7 +222,7 @@
     "message": " Verbinde zum Kovan Testnetzwerk"
   },
   "connectingToMainnet": {
-    "message": "Verbinde zum Ethereum Main Net"
+    "message": "Verbinde zum Wanliuno Main Net"
   },
   "connectingToRopsten": {
     "message": " Verbinde zum Ropsten Testnetzwerk"
@@ -378,7 +378,7 @@
     "message": "Fehler bei der ENS-Namensregistrierung"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS-Name wurde im aktuellen Netzwerk nicht gefunden. Versuchen Sie, zum Main Ethereum Network zu wechseln."
+    "message": "ENS-Name wurde im aktuellen Netzwerk nicht gefunden. Versuchen Sie, zum Main Wanliuno Network zu wechseln."
   },
   "enterAnAlias": {
     "message": "Ein Alias eingeben"
@@ -390,7 +390,7 @@
     "message": "Zum Fortfahren Passwort eingeben"
   },
   "ethereumPublicAddress": {
-    "message": "Öffentliche Ethereum-Adresse"
+    "message": "Öffentliche Wanliuno-Adresse"
   },
   "etherscanView": {
     "message": "Account auf Etherscan anschauen"
@@ -558,7 +558,7 @@
     "message": "Bekannte Vertragsadresse."
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Kein ETH-Netzwerk, auf Kleinschreibung gesetzt"
+    "message": "Kein WLI-Netzwerk, auf Kleinschreibung gesetzt"
   },
   "invalidInput": {
     "message": "Ungültige Eingabe."
@@ -607,7 +607,7 @@
     "message": "Ausloggen"
   },
   "mainnet": {
-    "message": "Ethereum Main Net"
+    "message": "Wanliuno Main Net"
   },
   "memorizePhrase": {
     "message": "Prägen Sie sich diese Phrase ein."
@@ -619,7 +619,7 @@
     "message": "Nachricht"
   },
   "metamaskDescription": {
-    "message": "MetaMask ist ein sicherer Identitätssafe für Ethereum."
+    "message": "MetaMask ist ein sicherer Identitätssafe für Wanliuno."
   },
   "metamaskVersion": {
     "message": "MetaMask-Version"
@@ -647,7 +647,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Negative ETH Beträge können nicht versendet werden."
+    "message": "Negative WLI Beträge können nicht versendet werden."
   },
   "networkName": {
     "message": "Netzwerkname"
@@ -772,7 +772,7 @@
     "message": "Hauptwährung"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Wählen Sie 'Nativ', um dem Anzeigen von Werten in der nativen Währung der Kette (z. B. ETH) Vorrang zu geben. Wählen Sie 'Fiat', um dem Anzeigen von Werten in Ihrer gewählten Fiat-Währung Vorrang zu geben."
+    "message": "Wählen Sie 'Nativ', um dem Anzeigen von Werten in der nativen Währung der Kette (z. B. WLI) Vorrang zu geben. Wählen Sie 'Fiat', um dem Anzeigen von Werten in Ihrer gewählten Fiat-Währung Vorrang zu geben."
   },
   "privacyMsg": {
     "message": "Datenschutzrichtlinie"
@@ -945,8 +945,8 @@
   "sendAmount": {
     "message": "Betrag senden"
   },
-  "sendETH": {
-    "message": "ETH senden"
+  "sendWLI": {
+    "message": "WLI senden"
   },
   "sendTokens": {
     "message": "Token senden"
@@ -1057,7 +1057,7 @@
     "message": "3. Erste Schritte mit dApps und mehr!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Verwenden Sie Ihr Hardware-Konto so wie jedes Ethereum-Konto. Loggen Sie sich bei dApps ein, senden Sie Eth, kaufen und speichern Sie ERC20-Token und Nicht-Fungible-Token wie CryptoKitties."
+    "message": "Verwenden Sie Ihr Hardware-Konto so wie jedes Wanliuno-Konto. Loggen Sie sich bei dApps ein, senden Sie Eth, kaufen und speichern Sie ERC20-Token und Nicht-Fungible-Token wie CryptoKitties."
   },
   "storePhrase": {
     "message": "Speichern Sie diesen Schlüssel in einem Passwortmanager wie 1Password."
